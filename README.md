@@ -1,12 +1,70 @@
-<h1 align="center">Hi there 👋, I'm Vishal</h1>
-<h3 align="center">A passionate aspiring Game developer</h3>
+# Hello! 👋 I'm Vishal
+---
 
-- 📫 Reach me through **vishal.ai23@stellamaryscoe.edu.in**
+ "✉️  Contact me Via [Mail](mailto:vishal.ai23@stellamaryscoe.edu.in) <br>
+ "🌐  Visit my portfolio: [Vishal](https://vishal-46.github.io/Vishal-Portfolio/)
 
-<h3 align="left">Connect with me:</h3>
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=vishal-46&label=Profile%20views&color=0e75b6&style=flat" alt="vishal-46" /> 
+</p>
+<a href="https://www.github.com/vishal-46" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/github/followers/vishal-46?logo=github&style=for-the-badge&color=14b8a6&labelColor=1c1917" alt="GitHub Followers" />
+</a>
+
+---
+
+### ✨ "Innovation is the ability to see change as an opportunity - not a threat." 
+
+---
+
+### 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=vishal-46&theme=monokai&no-frame=false&no-bg=false&margin-w=4)
+
+---
+
+### 🚀 Skills & Technologies
+I’m proficient in a variety of programming languages and tools. Here’s a glimpse of what I can do:
+
 <p align="left">
-<a href="https://linkedin.com/in/vishaln24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vishaln24" height="30" width="40" /></a>
+  <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" title="C#" /></a>
+  <a href="https://www.w3.org/TR/html52/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" title="HTML5" /></a>
+  <a href="https://www.w3.org/Style/CSS/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" title="CSS3" /></a>
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" title="Docker" /></a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" title="MySQL" /></a>
+  <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" title="Python" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" title="JavaScript" /></a>
+  <a href="https://unity.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/unity-colored.svg" width="36" height="36" alt="Unity" title="Unity" /></a>
+  <a href="https://www.blender.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/blender-colored.svg" width="36" height="36" alt="Blender" title="Blender" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+---
+
+### 🌟 About Me
+I'm an aspiring developer passionate about creating innovative solutions and immersive experiences through technology. Currently studying at Stella Maris College of Engineering, I am focused on mastering game development, 3D modeling, and web technologies. My goal is to leverage my skills in C#, Python, and Unity to build engaging games and applications that inspire others.
+
+---
+
+### 📈 Current Projects
+Here are some of the exciting projects I am currently working on:
+
+- **Game Development**: Designing an interactive game using Unity, focusing on gameplay mechanics and user experience.
+- **Web Applications**: Building a dynamic web application using HTML, CSS, and JavaScript to enhance my front-end development skills.
+- **3D Modeling**: Creating 3D assets for my game using Blender, learning the intricacies of modeling and texturing.
+
+---
+
+### 🌐 Connect with Me
+I love connecting with fellow developers and learning from their experiences. Feel free to reach out to me on [LinkedIn](www.linkedin.com/in/vishaln24) or [GitHub](https://github.com/Vishal-46).
+
+---
+
+### 🎉 Fun Fact
+I’m a huge fan of **Minecraft**! It inspires my creativity and passion for game development. I love exploring different game mechanics and storytelling through my projects.
+
+---
+
+<p align="center">
+  <img src="https://media.giphy.com/media/3oEduIT6dW9cBH5ZQc/giphy.gif?cid=790b7611pl4q93t1232s9tzperhsjfpq1w9lcwmdbe3ni4la&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="300" height="300" alt="Fun GIF" />
+</p>
+
+---
