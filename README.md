@@ -2,7 +2,7 @@
 ---
 
  "✉️  Contact me Via [Mail](mailto:vishal.ai23@stellamaryscoe.edu.in) <br>
- "🌐  Visit my portfolio: [Vishal](https://vishal-46.github.io/Vishal-Portfolio/)
+ "🌐. My portfolio👉🏽 [Vishal](https://vishal-46.github.io/Vishal-Portfolio/)
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=vishal-46&label=Profile%20views&color=0e75b6&style=flat" alt="vishal-46" /> 
@@ -53,7 +53,7 @@ Here are some of the exciting projects I am currently working on:
 
 ---
 
-### 🌐 Connect with Me
+### 🌐 Connect with Me🤝
 I love connecting with fellow developers and learning from their experiences. Feel free to reach out to me on [LinkedIn](www.linkedin.com/in/vishaln24) or [GitHub](https://github.com/Vishal-46).
 
 ---
