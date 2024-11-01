@@ -22,7 +22,7 @@ I'm an enthusiastic developer with a passion for creating innovative solutions a
   <a href="https://github.com/Vishal-46" target="_blank" rel="noreferrer" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/GitHub-Vishal--46-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" style="border-radius: 5px;">
   </a>
-  <a href="tel:+919876543210" target="_blank" rel="noreferrer" style="text-decoration: none;">
+  <a href="tel:+91-8015628822" target="_blank" rel="noreferrer" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/Call%20Me-%2B91%209876543210-orange?style=for-the-badge&logo=phone&logoColor=white" alt="Phone" style="border-radius: 5px;">
   </a>
 </div>
@@ -54,17 +54,93 @@ I'm an enthusiastic developer with a passion for creating innovative solutions a
 ---
 
 ## 🚀 Skills & Technologies  
+
 ### Languages, Tools & Technologies
-<p align="center">
-  <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" title="C#" /></a>
-  <a href="https://www.w3.org/TR/html52/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" title="HTML5" /></a>
-  <a href="https://www.w3.org/Style/CSS/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" title="CSS3" /></a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" title="Docker" /></a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" title="MySQL" /></a>
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" title="Python" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" title="JavaScript" /></a>
-  <a href="https://www.blender.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/blender-colored.svg" width="36" height="36" alt="Blender" title="Blender" /></a>
+
+  
+  <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" title="C#" />
+  </a>
+  C# - <strong>70%</strong>
+  <div style="width: 100%; background-color: #e0e0e0; border-radius: 5px; overflow: hidden;">
+    <div style="width: 70%; height: 10px; background-color: #14b8a6;"></div>
+  </div>
+  <br>
+
+  <a href="https://www.blender.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/blender-colored.svg" width="36" height="36" alt="Blender" title="Blender" />
+  </a>
+  Blender - <strong>50%</strong>
+  <div style="width: 100%; background-color: #e0e0e0; border-radius: 5px; overflow: hidden;">
+    <div style="width: 50%; height: 10px; background-color: #14b8a6;"></div>
+  </div>
+  <br>
+
+  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" title="Python" />
+  </a>
+  Python - <strong>65%</strong>
+  <div style="width: 100%; background-color: #e0e0e0; border-radius: 5px; overflow: hidden;">
+    <div style="width: 65%; height: 10px; background-color: #14b8a6;"></div>
+  </div>
+  <br>
+
+  <a href="https://unity.com/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Unity_Technologies_logo.svg/1200px-Unity_Technologies_logo.svg.png" width="36" height="36" alt="Unity" title="Unity" />
+  </a>
+  Unity - <strong>60%</strong>
+  <div style="width: 100%; background-color: #e0e0e0; border-radius: 5px; overflow: hidden;">
+    <div style="width: 60%; height: 10px; background-color: #14b8a6;"></div>
+  </div>
+  <br>
+
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" title="MySQL" />
+  </a>
+  MySQL - <strong>70%</strong>
+  <div style="width: 100%; background-color: #e0e0e0; border-radius: 5px; overflow: hidden;">
+    <div style="width: 70%; height: 10px; background-color: #14b8a6;"></div>
+  </div>
+  <br>
+
+  <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="36" height="36" alt="AWS" title="AWS" />
+  </a>
+  AWS - <strong>65%</strong>
+  <div style="width: 100%; background-color: #e0e0e0; border-radius: 5px; overflow: hidden;">
+    <div style="width: 65%; height: 10px; background-color: #14b8a6;"></div>
+  </div>
+  <br>
+
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" title="Docker" />
+  </a>
+  Docker - <strong>60%</strong>
+  <div style="width: 100%; background-color: #e0e0e0; border-radius: 5px; overflow: hidden;">
+    <div style="width: 60%; height: 10px; background-color: #14b8a6;"></div>
+  </div>
+  <br>
+
+  <a href="https://www.w3.org/TR/html52/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" title="HTML5" />
+  </a>
+  HTML5 - <strong>80%</strong>
+  <div style="width: 100%; background-color: #e0e0e0; border-radius: 5px; overflow: hidden;">
+    <div style="width: 80%; height: 10px; background-color: #14b8a6;"></div>
+  </div>
+  <br>
+
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" title="JavaScript" />
+  </a>
+  JavaScript - <strong>70%</strong>
+  <div style="width: 100%; background-color: #e0e0e0; border-radius: 5px; overflow: hidden;">
+    <div style="width: 70%; height: 10px; background-color: #14b8a6;"></div>
+  </div>
+  <br>
+
 </p>
+
 
 ---
 
