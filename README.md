@@ -4,7 +4,9 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Welcome+to+My+GitHub+Profile!;I'm+a+Tech+Explorer+and+Developer!;Always+learning+something+new!" alt="Typing SVG" />
 </p>
 
-# Hey there, I'm Vishal! 👋  
+# Hey there, I'm Vishal! 👋
+## 🌟 About Me
+I'm an enthusiastic developer with a passion for creating innovative solutions and immersive experiences through technology. Currently studying at Stella Mary's College of Engineering, I have a keen interest in game development, 3D modeling, and web technologies. I’m excited to learn C#, Python, and Unity to build engaging games and applications that inspire others.
 *Aspiring Developer | Game Enthusiast | Innovation Seeker*  
 ---
 <h2  style="font-family: 'Arial'; color: #4CAF50;">🤝 Feel Free to Reach Out!</h2>
@@ -38,6 +40,11 @@
 </p>
 
 ## 📊 GitHub Stats
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+</picture>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=vishal-46&show_icons=true&theme=radical" alt="Vishal's GitHub Stats" width="50%" />
   <img src="https://streak-stats.demolab.com?user=vishal-46&theme=radical" alt="Vishal's GitHub Streak" width="50%" />
@@ -60,8 +67,7 @@
 
 ---
 
-## 🌟 About Me
-I'm an aspiring developer passionate about creating innovative solutions and immersive experiences through technology. Currently studying at Stella Maris College of Engineering, I am focused on mastering game development, 3D modeling, and web technologies. My goal is to leverage my skills in C#, Python, and Unity to build engaging games and applications that inspire others.
+
 
 ---
 
