@@ -61,7 +61,7 @@ I'm an enthusiastic developer with a passion for creating innovative solutions a
   <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" title="C#" />
   </a>
-  C# - <strong>70%</strong>
+  C# - <strong>47%</strong>
   <div style="width: 100%; background-color: #e0e0e0; border-radius: 5px; overflow: hidden;">
     <div style="width: 70%; height: 10px; background-color: #14b8a6;"></div>
   </div>
@@ -70,7 +70,7 @@ I'm an enthusiastic developer with a passion for creating innovative solutions a
   <a href="https://www.blender.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/blender-colored.svg" width="36" height="36" alt="Blender" title="Blender" />
   </a>
-  Blender - <strong>50%</strong>
+  Blender - <strong>73%</strong>
   <div style="width: 100%; background-color: #e0e0e0; border-radius: 5px; overflow: hidden;">
     <div style="width: 50%; height: 10px; background-color: #14b8a6;"></div>
   </div>
@@ -79,14 +79,14 @@ I'm an enthusiastic developer with a passion for creating innovative solutions a
   <a href="https://www.python.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" title="Python" />
   </a>
-  Python - <strong>65%</strong>
+  Python - <strong>55%</strong>
   <div style="width: 100%; background-color: #e0e0e0; border-radius: 5px; overflow: hidden;">
     <div style="width: 65%; height: 10px; background-color: #14b8a6;"></div>
   </div>
   <br>
 
   <a href="https://unity.com/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Unity_Technologies_logo.svg/1200px-Unity_Technologies_logo.svg.png" width="36" height="36" alt="Unity" title="Unity" />
+    <img src="https://skillicons.dev/icons?i=unity"  width="36" height="36" alt="Unity" title="Unity" />
   </a>
   Unity - <strong>60%</strong>
   <div style="width: 100%; background-color: #e0e0e0; border-radius: 5px; overflow: hidden;">
@@ -106,7 +106,7 @@ I'm an enthusiastic developer with a passion for creating innovative solutions a
   <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="36" height="36" alt="AWS" title="AWS" />
   </a>
-  AWS - <strong>65%</strong>
+  AWS - <strong>60%</strong>
   <div style="width: 100%; background-color: #e0e0e0; border-radius: 5px; overflow: hidden;">
     <div style="width: 65%; height: 10px; background-color: #14b8a6;"></div>
   </div>
@@ -115,7 +115,7 @@ I'm an enthusiastic developer with a passion for creating innovative solutions a
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" title="Docker" />
   </a>
-  Docker - <strong>60%</strong>
+  Docker - <strong>30%</strong>
   <div style="width: 100%; background-color: #e0e0e0; border-radius: 5px; overflow: hidden;">
     <div style="width: 60%; height: 10px; background-color: #14b8a6;"></div>
   </div>
@@ -133,7 +133,7 @@ I'm an enthusiastic developer with a passion for creating innovative solutions a
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" title="JavaScript" />
   </a>
-  JavaScript - <strong>70%</strong>
+  JavaScript - <strong>37%</strong>
   <div style="width: 100%; background-color: #e0e0e0; border-radius: 5px; overflow: hidden;">
     <div style="width: 70%; height: 10px; background-color: #14b8a6;"></div>
   </div>
