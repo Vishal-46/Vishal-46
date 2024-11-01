@@ -77,10 +77,21 @@ I’m a huge fan of **Minecraft**! It inspires my creativity and passion for gam
 
 ## 🖥️ Dev Environment
 <div align="center">
-  <img src="https://img.shields.io/badge/OS-Windows-blue?style=for-the-badge&logo=windows">
-  <img src="https://img.shields.io/badge/Editor-Visual%20Studio%20Code-blue?style=for-the-badge&logo=visual-studio-code&logoColor=white">
-  <img src="https://img.shields.io/badge/Tools-GitHub-blue?style=for-the-badge&logo=github">
+  <img src="https://img.shields.io/badge/OS-Windows-blue?style=for-the-badge&logo=windows" alt="Windows">
+  <img src="https://img.shields.io/badge/OS-Linux-blue?style=for-the-badge&logo=linux" alt="Linux">
+
+  <img src="https://img.shields.io/badge/Editor-Visual%20Studio%20Code-blue?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code">
+  <img src="https://img.shields.io/badge/Editor-IntelliJ%20IDEA-blue?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ IDEA">
+  <img src="https://img.shields.io/badge/Editor-PyCharm-blue?style=for-the-badge&logo=pycharm&logoColor=white" alt="PyCharm">
+  <img src="https://img.shields.io/badge/Editor-Sublime%20Text-blue?style=for-the-badge&logo=sublime-text&logoColor=white" alt="Sublime Text">
+
+  <img src="https://img.shields.io/badge/Tools-GitHub-blue?style=for-the-badge&logo=github" alt="GitHub">
+  <img src="https://img.shields.io/badge/Tools-Docker-blue?style=for-the-badge&logo=docker" alt="Docker">
+  <img src="https://img.shields.io/badge/Tools-Jupyter-blue?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter">
+  <img src="https://img.shields.io/badge/Tools-Git-blue?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/Tools-Figma-blue?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
 </div>
+
 
 ---
 
