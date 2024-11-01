@@ -94,7 +94,8 @@ Here are some of the exciting projects I am currently working on:
 ---
 
 ## 🎉 Fun Fact  
-I’m a huge fan of **Minecraft**! It inspires my creativity and passion for game development. I love exploring different game mechanics and storytelling through my projects.
+I’m a huge fan of Minecraft! It inspires my creativity and passion for game development. I love exploring different game mechanics and storytelling through my projects. I also draw inspiration from game developers like Markus Persson, the creator of Minecraft, whose ability to blend creativity with technology motivates me to push the boundaries of game design.
+
 
 
 <p align="center">
