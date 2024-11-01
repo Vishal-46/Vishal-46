@@ -7,11 +7,25 @@
 # Hey there, I'm Vishal! 👋  
 *Aspiring Developer | Game Enthusiast | Innovation Seeker*  
 ---
+<h2  style="font-family: 'Arial'; color: #4CAF50;">🤝 Feel Free to Reach Out!</h2>
+<div align="center" style="display: flex; gap: 10px; justify-content: center;">
+  <a href="mailto:vishal.ai23@stellamaryscoe.edu.in" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Email-vishal.ai23%40stellamaryscoe.edu.in-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" style="border-radius: 5px;">
+  </a>
+  <a href="https://vishal-46.github.io/Vishal-Portfolio/" target="_blank" rel="noreferrer" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Portfolio-Vishal--Portfolio-green?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" style="border-radius: 5px;">
+  </a>
+  <a href="https://www.linkedin.com/in/vishaln24" target="_blank" rel="noreferrer" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/LinkedIn-Vishal-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="border-radius: 5px;">
+  </a>
+  <a href="https://github.com/Vishal-46" target="_blank" rel="noreferrer" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/GitHub-Vishal--46-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" style="border-radius: 5px;">
+  </a>
+  <a href="tel:+919876543210" target="_blank" rel="noreferrer" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Call%20Me-%2B91%209876543210-orange?style=for-the-badge&logo=phone&logoColor=white" alt="Phone" style="border-radius: 5px;">
+  </a>
+</div>
 
-## ✉️ Contact Me  
-Feel free to reach out!  
-[![Mail](https://img.shields.io/badge/Email-vishal.ai23@stellamaryscoe.edu.in-informational?style=for-the-badge&logo=Gmail)](mailto:vishal.ai23@stellamaryscoe.edu.in)  
-🌐 [Portfolio](https://vishal-46.github.io/Vishal-Portfolio/) | [LinkedIn](https://www.linkedin.com/in/vishaln24) | [GitHub](https://github.com/Vishal-46)  
 
 ---
 
