@@ -73,21 +73,6 @@ Here are some of the exciting projects I am currently working on:
 - **3D Modeling**: Creating 3D assets for my game using Blender, learning the intricacies of modeling and texturing.
 
 ---
-
-## 🌐 Connect with Me 🤝
-I love connecting with fellow developers and learning from their experiences. Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/vishaln24) or [GitHub](https://github.com/Vishal-46).
-
----
-
-## 🎉 Fun Fact  
-I’m a huge fan of **Minecraft**! It inspires my creativity and passion for game development. I love exploring different game mechanics and storytelling through my projects.
-
-<p align="center">
-  <img src="https://media.giphy.com/media/3oEduIT6dW9cBH5ZQc/giphy.gif?cid=790b7611pl4q93t1232s9tzperhsjfpq1w9lcwmdbe3ni4la&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="300" height="300" alt="Minecraft GIF" />
-</p>
-
----
-
 ## 🖥️ Dev Environment
 <div align="center">
   <img src="https://img.shields.io/badge/OS-Windows-blue?style=for-the-badge&logo=windows" alt="Windows">
@@ -108,11 +93,21 @@ I’m a huge fan of **Minecraft**! It inspires my creativity and passion for gam
 
 ---
 
-## 📈 Activity Graph
+## 🎉 Fun Fact  
+I’m a huge fan of **Minecraft**! It inspires my creativity and passion for game development. I love exploring different game mechanics and storytelling through my projects.
+
+
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=vishal-46&theme=rogue" alt="Vishal's GitHub Activity Graph" />
+  <img src="https://quotes-github-readme.vercel.app/api?quote=It%20does%20not%20matter%20how%20slowly%20you%20go%20as%20long%20as%20you%20do%20not%20stop.&author=Confucius&theme=radical" alt="Inspiring Quote" />
 </p>
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Inspiring Quote" />
+  <img src="https://media.giphy.com/media/3oEduIT6dW9cBH5ZQc/giphy.gif?cid=790b7611pl4q93t1232s9tzperhsjfpq1w9lcwmdbe3ni4la&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="300" height="300" alt="Minecraft GIF" />
 </p>
+
+---
+
+
+
+
+
