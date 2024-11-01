@@ -1,12 +1,11 @@
-# Hey there, I'm Vishal! 👋  
-*Aspiring Developer | Game Enthusiast | Innovation Seeker*  
-
 ---
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Welcome+to+My+GitHub+Profile!;I'm+a+Tech+Explorer+and+Developer!;Always+learning+something+new!" alt="Typing SVG" />
 </p>
 
+# Hey there, I'm Vishal! 👋  
+*Aspiring Developer | Game Enthusiast | Innovation Seeker*  
 ---
 
 ## ✉️ Contact Me  
