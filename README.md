@@ -7,6 +7,7 @@
 # Hey there, I'm Vishal! 👋
 ## 🌟 About Me
 I'm an enthusiastic developer with a passion for creating innovative solutions and immersive experiences through technology. Currently studying at Stella Mary's College of Engineering, I have a keen interest in game development, 3D modeling, and web technologies. I’m excited to learn C#, Python, and Unity to build engaging games and applications that inspire others.
+
 *Aspiring Developer | Game Enthusiast | Innovation Seeker*  
 ---
 <h2  style="font-family: 'Arial'; color: #4CAF50;">🤝 Feel Free to Reach Out!</h2>
