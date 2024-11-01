@@ -1,5 +1,3 @@
----
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Welcome+to+My+GitHub+Profile!;I'm+a+Tech+Explorer+and+Developer!;Always+learning+something+new!" alt="Typing SVG" />
 </p>
@@ -10,7 +8,7 @@ I'm an enthusiastic developer with a passion for creating innovative solutions a
 
 *Aspiring Developer | Game Enthusiast | Innovation Seeker*  
 ---
-<h2  style="font-family: 'Arial'; color: #4CAF50;">🤝 Feel Free to Reach Out!</h2>
+<h2 style="font-family: 'Arial'; color: #4CAF50;">🤝 Feel Free to Reach Out!</h2>
 <div align="center" style="display: flex; gap: 10px; justify-content: center;">
   <a href="mailto:vishal.ai23@stellamaryscoe.edu.in" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/Email-vishal.ai23%40stellamaryscoe.edu.in-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" style="border-radius: 5px;">
@@ -28,7 +26,6 @@ I'm an enthusiastic developer with a passion for creating innovative solutions a
     <img src="https://img.shields.io/badge/Call%20Me-%2B91%209876543210-orange?style=for-the-badge&logo=phone&logoColor=white" alt="Phone" style="border-radius: 5px;">
   </a>
 </div>
-
 
 ---
 
@@ -51,6 +48,9 @@ I'm an enthusiastic developer with a passion for creating innovative solutions a
   <img src="https://streak-stats.demolab.com?user=vishal-46&theme=radical" alt="Vishal's GitHub Streak" width="50%" />
 </div>
 
+## 📈 GitHub Commits Graph
+[![GitHub Commits Graph](https://github-readme-activity-graph.vercel.app/graph?username=vishal-46&bg_color=2d2d2d&color=ffcc00&line=ff5722&point=ffffff&area_color=2d2d2d&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph)](http://www.github.com/vishal-46)
+
 ---
 
 ## 🚀 Skills & Technologies  
@@ -68,10 +68,6 @@ I'm an enthusiastic developer with a passion for creating innovative solutions a
 
 ---
 
-
-
----
-
 ## 📈 Current Projects
 Here are some of the exciting projects I am currently working on:
 
@@ -80,6 +76,7 @@ Here are some of the exciting projects I am currently working on:
 - **3D Modeling**: Creating 3D assets for my game using Blender, learning the intricacies of modeling and texturing.
 
 ---
+
 ## 🖥️ Dev Environment
 <div align="center">
   <img src="https://img.shields.io/badge/OS-Windows-blue?style=for-the-badge&logo=windows" alt="Windows">
@@ -88,34 +85,23 @@ Here are some of the exciting projects I am currently working on:
   <img src="https://img.shields.io/badge/Editor-Visual%20Studio%20Code-blue?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code">
   <img src="https://img.shields.io/badge/Editor-IntelliJ%20IDEA-blue?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ IDEA">
   <img src="https://img.shields.io/badge/Editor-PyCharm-blue?style=for-the-badge&logo=pycharm&logoColor=white" alt="PyCharm">
-  <img src="https://img.shields.io/badge/Editor-Sublime%20Text-blue?style=for-the-badge&logo=sublime-text&logoColor=white" alt="Sublime Text">
-
-  <img src="https://img.shields.io/badge/Tools-GitHub-blue?style=for-the-badge&logo=github" alt="GitHub">
-  <img src="https://img.shields.io/badge/Tools-Docker-blue?style=for-the-badge&logo=docker" alt="Docker">
-  <img src="https://img.shields.io/badge/Tools-Jupyter-blue?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter">
-  <img src="https://img.shields.io/badge/Tools-Git-blue?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-  <img src="https://img.shields.io/badge/Tools-Figma-blue?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
 </div>
 
+---
+
+## 📚 Learning & Development Goals
+I am continuously expanding my skill set and exploring new technologies. Currently, I am focused on:
+- Deepening my knowledge of C# and Unity for game development.
+- Learning about AI and machine learning concepts.
+- Exploring web development frameworks like React and Node.js.
 
 ---
 
-## 🎉 Fun Fact  
-I’m a huge fan of Minecraft! It inspires my creativity and passion for game development. I love exploring different game mechanics and storytelling through my projects. I also draw inspiration from game developers like Markus Persson, the creator of Minecraft, whose ability to blend creativity with technology motivates me to push the boundaries of game design.
-
-
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?quote=It%20does%20not%20matter%20how%20slowly%20you%20go%20as%20long%20as%20you%20do%20not%20stop.&author=Confucius&theme=radical" alt="Inspiring Quote" />
-</p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/3oEduIT6dW9cBH5ZQc/giphy.gif?cid=790b7611pl4q93t1232s9tzperhsjfpq1w9lcwmdbe3ni4la&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="300" height="300" alt="Minecraft GIF" />
-</p>
+## 🤖 Fun Fact
+I’m an avid fan of Minecraft! The creativity and challenges in the game inspire me to think outside the box in my projects.  
 
 ---
 
-
-
-
-
+<p align="center">
+  <em>Thank you for visiting my profile! Let's connect and collaborate!</em>
+</p>
