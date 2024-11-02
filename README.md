@@ -34,7 +34,7 @@ I'm an enthusiastic developer with a passion for creating innovative solutions a
 
 ## 🏆 GitHub Achievements  
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vishal-46&theme=monokai&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Vishal-46&theme=monokai&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" />
 </p>
 
 ## 📊 GitHub Stats
