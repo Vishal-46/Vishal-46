@@ -165,11 +165,11 @@ Here are some of the exciting projects I am currently working on:
 
 ---
 
-## 📚 Learning & Development Goals
+## 📚 Learning & Development Goals in 2025
 I am continuously expanding my skill set and exploring new technologies. Currently, I am focused on:
-- Deepening my knowledge of C# and Unity for game development.
-- Learning about AI and machine learning concepts.
-- Exploring web development frameworks like React and Node.js.
+- Deepening my knowledge of C#, .NET and Unity for game development.
+- Learning about AI and machine learning concepts with Data Science.
+- Develop Expert 3D models and Animations in Blender .
 
 ---
 
