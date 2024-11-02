@@ -45,8 +45,8 @@ I'm an enthusiastic developer with a passion for creating innovative solutions a
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
 </picture>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vishal-46&show_icons=true&theme=radical" alt="Vishal's GitHub Stats" width="50%" />
-  <img src="https://streak-stats.demolab.com?user=Vishal-46&theme=radical" alt="Vishal's GitHub Streak" width="50%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=vishal-46&show_icons=true&theme=radical" alt="My GitHub Stats" width="50%" />
+  <img src="https://streak-stats.demolab.com?user=Vishal-46&theme=radical" alt="My GitHub Streak" width="50%" />
 </div>
 
 ## 📈 GitHub Commits Graph
