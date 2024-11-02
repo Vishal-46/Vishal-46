@@ -45,11 +45,11 @@ I'm an enthusiastic developer with a passion for creating innovative solutions a
 </picture>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=vishal-46&show_icons=true&theme=radical" alt="Vishal's GitHub Stats" width="50%" />
-  <img src="https://streak-stats.demolab.com?user=vishal-46&theme=radical" alt="Vishal's GitHub Streak" width="50%" />
+  <img src="https://streak-stats.demolab.com?user=Vishal-46&theme=radical" alt="Vishal's GitHub Streak" width="50%" />
 </div>
 
 ## 📈 GitHub Commits Graph
-[![GitHub Commits Graph](https://github-readme-activity-graph.vercel.app/graph?username=vishal-46&bg_color=2d2d2d&color=ffcc00&line=ff5722&point=ffffff&area_color=2d2d2d&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph)](http://www.github.com/vishal-46)
+[![GitHub Commits Graph](https://github-readme-activity-graph.vercel.app/graph?username=vishal-46&bg_color=2d2d2d&color=ffcc00&line=ff5722&point=ffffff&area_color=2d2d2d&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph)](http://www.github.com/Vishal-46)
 
 ---
 
