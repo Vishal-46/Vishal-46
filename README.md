@@ -62,7 +62,7 @@ I'm a developer passionate about building creative solutions and engaging experi
   <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" title="C#" />
   </a>
-  C# - <strong>47%</strong>
+  C# - <strong>45.6%</strong>
   <div style="width: 100%; background-color: #e0e0e0; border-radius: 5px; overflow: hidden;">
     <div style="width: 70%; height: 10px; background-color: #14b8a6;"></div>
   </div>
@@ -71,7 +71,7 @@ I'm a developer passionate about building creative solutions and engaging experi
   <a href="https://www.blender.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/blender-colored.svg" width="36" height="36" alt="Blender" title="Blender" />
   </a>
-  Blender - <strong>73%</strong>
+  Blender - <strong>60%</strong>
   <div style="width: 100%; background-color: #e0e0e0; border-radius: 5px; overflow: hidden;">
     <div style="width: 50%; height: 10px; background-color: #14b8a6;"></div>
   </div>
@@ -80,7 +80,7 @@ I'm a developer passionate about building creative solutions and engaging experi
   <a href="https://www.python.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" title="Python" />
   </a>
-  Python - <strong>55%</strong>
+  Python - <strong>34.9%</strong>
   <div style="width: 100%; background-color: #e0e0e0; border-radius: 5px; overflow: hidden;">
     <div style="width: 65%; height: 10px; background-color: #14b8a6;"></div>
   </div>
@@ -89,7 +89,7 @@ I'm a developer passionate about building creative solutions and engaging experi
   <a href="https://unity.com/" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=unity"  width="36" height="36" alt="Unity" title="Unity" />
   </a>
-  Unity - <strong>60%</strong>
+  Unity - <strong>57.8%</strong>
   <div style="width: 100%; background-color: #e0e0e0; border-radius: 5px; overflow: hidden;">
     <div style="width: 60%; height: 10px; background-color: #14b8a6;"></div>
   </div>
@@ -98,7 +98,7 @@ I'm a developer passionate about building creative solutions and engaging experi
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" title="MySQL" />
   </a>
-  MySQL - <strong>70%</strong>
+  MySQL - <strong>30%</strong>
   <div style="width: 100%; background-color: #e0e0e0; border-radius: 5px; overflow: hidden;">
     <div style="width: 70%; height: 10px; background-color: #14b8a6;"></div>
   </div>
@@ -107,7 +107,7 @@ I'm a developer passionate about building creative solutions and engaging experi
   <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="36" height="36" alt="AWS" title="AWS" />
   </a>
-  AWS - <strong>60%</strong>
+  AWS - <strong>49.3%</strong>
   <div style="width: 100%; background-color: #e0e0e0; border-radius: 5px; overflow: hidden;">
     <div style="width: 65%; height: 10px; background-color: #14b8a6;"></div>
   </div>
@@ -116,7 +116,7 @@ I'm a developer passionate about building creative solutions and engaging experi
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" title="Docker" />
   </a>
-  Docker - <strong>30%</strong>
+  Docker - <strong>32%</strong>
   <div style="width: 100%; background-color: #e0e0e0; border-radius: 5px; overflow: hidden;">
     <div style="width: 60%; height: 10px; background-color: #14b8a6;"></div>
   </div>
@@ -134,7 +134,7 @@ I'm a developer passionate about building creative solutions and engaging experi
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" title="JavaScript" />
   </a>
-  JavaScript - <strong>37%</strong>
+  JavaScript - <strong>35.4%</strong>
   <div style="width: 100%; background-color: #e0e0e0; border-radius: 5px; overflow: hidden;">
     <div style="width: 70%; height: 10px; background-color: #14b8a6;"></div>
   </div>
