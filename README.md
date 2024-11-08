@@ -1,4 +1,4 @@
-<p align="center">
+e<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Welcome+to+My+GitHub+Profile!;I'm+a+Tech+Explorer+and+Developer!;Always+learning+something+new!" alt="Typing SVG" />
 </p>
 
@@ -46,8 +46,12 @@ I'm a developer passionate about building creative solutions and engaging experi
   <img src="https://streak-stats.demolab.com?user=Vishal-46&theme=radical" alt="My GitHub Streak" width="50%" />
 </div>
 
-## 📈 GitHub Commits Graph
-[![GitHub Commits Graph](https://github-readme-activity-graph.vercel.app/graph?username=vishal-46&bg_color=2d2d2d&color=ffcc00&line=ff5722&point=ffffff&area_color=2d2d2d&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph)](http://www.github.com/Vishal-46)
+
+## 📊 GitHub Commits Graph:
+
+
+<a href="http://www.github.com/Vishal-46"><img src="https://github-readme-activity-graph.vercel.app/graph?username=Vishal-46&bg_color=000000&color=a855f7&line=6366f1&point=a855f7&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+
 
 ---
 
