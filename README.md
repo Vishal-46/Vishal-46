@@ -46,12 +46,8 @@ I'm a developer passionate about building creative solutions and engaging experi
   <img src="https://streak-stats.demolab.com?user=Vishal-46&theme=radical" alt="My GitHub Streak" width="50%" />
 </div>
 
-
-## 📊 GitHub Commits Graph:
-
-
-<a href="http://www.github.com/Vishal-46"><img src="https://github-readme-activity-graph.vercel.app/graph?username=Vishal-46&bg_color=000000&color=a855f7&line=6366f1&point=a855f7&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
+## 📈 GitHub Activity Graph
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Vishal-46&bg_color=1e1e1e&color=6d9eeb&line=3c78d8&point=ffffff&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph)](http://www.github.com/Vishal-46)
 
 ---
 
