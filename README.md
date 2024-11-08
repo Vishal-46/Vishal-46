@@ -19,9 +19,6 @@ I'm a developer passionate about building creative solutions and engaging experi
   <a href="https://www.linkedin.com/in/vishaln24" target="_blank" rel="noreferrer" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/LinkedIn-Vishal-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="border-radius: 5px;">
   </a>
-  <a href="https://github.com/Vishal-46" target="_blank" rel="noreferrer" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/GitHub-Vishal--46-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" style="border-radius: 5px;">
-  </a>
   <a href="tel:+91-8015628822" target="_blank" rel="noreferrer" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/Call%20Me-%2B91%209876543210-orange?style=for-the-badge&logo=phone&logoColor=white" alt="Phone" style="border-radius: 5px;">
   </a>
