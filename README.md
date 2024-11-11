@@ -15,7 +15,7 @@ I'm a developer passionate about building creative solutions and engaging experi
   </a>
   <a href="https://vishal-46.github.io/Vishal-Portfolio/" target="_blank" rel="noreferrer" style="text-decoration: none;">
   
-  <a href="https://www.linkedin.com/in/vishaln24" target="_blank" rel="noreferrer" style="text-decoration: none;"
+  <a href="https://www.linkedin.com/in/vishaln24" target="_blank" rel="noreferrer" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/LinkedIn-Vishal-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="border-radius: 5px;">
   </a>
   <a href="tel:+91-8015628822" target="_blank" rel="noreferrer" style="text-decoration: none;">
