@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Welcome+to+My+GitHub+Profile!;I'm+a+Tech+Explorer+and+Developer!;Always+learning+something+new!" alt="Typing SVG" />
 </p>
 
-# Hey there, I'm Vishal 👋
+# Hey there, I'm Vishal! 👋
 ## 🌟 About Me
 I'm a developer passionate about building creative solutions and engaging experiences. Currently studying at Stella Mary's College of Engineering, I focus on game development, 3D modeling, and web technologies, and I’m learning C#, Python, and Unity to bring my ideas to life.
 
