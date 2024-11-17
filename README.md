@@ -77,10 +77,9 @@ I believe in consistent effort, learning from challenges, and embracing creativi
 ---
 
 ## 🤝 Connect With Me  
-
-- 📧 [Email Me](mailto:vishal.ai23@stellamaryscoe.edu.in)  
-- 🔗 [LinkedIn](https://www.linkedin.com/in/vishaln24)
-- 🌐 [Portfolio](https://vishal-46.github.io/Vishal-Portfolio/)    
+- **Email**: [vishal.ai23@stellamaryscoe.edu.in](mailto:vishal.ai23@stellamaryscoe.edu.in)  
+- **LinkedIn**: [Vishal N](https://www.linkedin.com/in/vishaln24)  
+- **Portfolio**: [Visit My Portfolio](https://vishal-46.github.io/Vishal-Portfolio/)   
 
 ---
 
