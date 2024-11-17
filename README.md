@@ -67,12 +67,20 @@ I believe in consistent effort, learning from challenges, and embracing creativi
 
 ---
 
+## 🎯 Dedication 
+
+### LeetCode Stats    
+- **Profile**: [Visit My LeetCode Profile](https://leetcode.com/u/Vishal-Arcadia/)
+### Duolingo Japanese
+- **Profile**: [Visit My Duolingo Profile](https://www.duolingo.com/profile/._Vishal_.)
+
+---
 
 ## 🤝 Connect With Me  
 
 - 📧 [Email Me](mailto:vishal.ai23@stellamaryscoe.edu.in)  
 - 🔗 [LinkedIn](https://www.linkedin.com/in/vishaln24)
--  🌐 [Portfolio](https://vishal-46.github.io/Vishal-Portfolio/)    
+- 🌐 [Portfolio](https://vishal-46.github.io/Vishal-Portfolio/)    
 
 ---
 
