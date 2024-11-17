@@ -32,9 +32,9 @@ With this mindset, I embrace challenges as opportunities for growth and innovati
 | Category               | Tools/Technologies                                                                                  | Proficiency |  
 |------------------------|----------------------------------------------------------------------------------------------------|-------------|  
 | **Programming**        | ![C#](https://img.shields.io/badge/-C%23-blue?style=flat-square&logo=c-sharp&logoColor=white) ![Python](https://img.shields.io/badge/-Python-yellow?style=flat-square&logo=python) | ⭐⭐⭐⭐         |  
-| **Game Development**   | ![Unity](https://img.shields.io/badge/-Unity-black?style=flat-square&logo=unity&logoColor=white) ![Blender](https://img.shields.io/badge/-Blender-orange?style=flat-square&logo=blender) | ⭐⭐⭐⭐         |  
-| **Front-End Development**    | ![HTML](https://img.shields.io/badge/-HTML-orange?style=flat-square&logo=html5) ![CSS](https://img.shields.io/badge/-CSS-blue?style=flat-square&logo=css3) ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript) | ⭐⭐⭐⭐⭐       |  
-| **Databases**          | ![MySQL](https://img.shields.io/badge/-MySQL-blue?style=flat-square&logo=mysql&logoColor=white)                                           | ⭐⭐⭐         |  
+| **Game Development**   | ![Unity](https://img.shields.io/badge/-Unity-black?style=flat-square&logo=unity&logoColor=white) ![Blender](https://img.shields.io/badge/-Blender-orange?style=flat-square&logo=blender) | ⭐⭐⭐         |  
+| **Front-End Development**    | ![HTML](https://img.shields.io/badge/-HTML-orange?style=flat-square&logo=html5) ![CSS](https://img.shields.io/badge/-CSS-blue?style=flat-square&logo=css3) ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript) | ⭐⭐⭐⭐      |  
+| **Databases**          | ![MySQL](https://img.shields.io/badge/-MySQL-blue?style=flat-square&logo=mysql&logoColor=white)                                           | ⭐⭐       |  
 
 ---
 ## 🚀 My Journey  
