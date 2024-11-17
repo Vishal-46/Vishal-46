@@ -19,17 +19,24 @@ With this mindset, I embrace challenges as opportunities for growth and innovati
 
 ---
 
+## 📈 GitHub Insights  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Vishal-46&show_icons=true&theme=radical" alt="GitHub Stats" width="48%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vishal-46&theme=radical" alt="GitHub Streak Stats" width="48%">
+</p>  
+
+---
 ## 🛠️ My Toolbox  
 
 | Category               | Tools/Technologies                                                                                  | Proficiency |  
 |------------------------|----------------------------------------------------------------------------------------------------|-------------|  
 | **Programming**        | ![C#](https://img.shields.io/badge/-C%23-blue?style=flat-square&logo=c-sharp&logoColor=white) ![Python](https://img.shields.io/badge/-Python-yellow?style=flat-square&logo=python) | ⭐⭐⭐⭐         |  
 | **Game Development**   | ![Unity](https://img.shields.io/badge/-Unity-black?style=flat-square&logo=unity&logoColor=white) ![Blender](https://img.shields.io/badge/-Blender-orange?style=flat-square&logo=blender) | ⭐⭐⭐⭐         |  
-| **Web Development**    | ![HTML](https://img.shields.io/badge/-HTML-orange?style=flat-square&logo=html5) ![CSS](https://img.shields.io/badge/-CSS-blue?style=flat-square&logo=css3) ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript) | ⭐⭐⭐⭐⭐       |  
+| **Front-End Development**    | ![HTML](https://img.shields.io/badge/-HTML-orange?style=flat-square&logo=html5) ![CSS](https://img.shields.io/badge/-CSS-blue?style=flat-square&logo=css3) ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript) | ⭐⭐⭐⭐⭐       |  
 | **Databases**          | ![MySQL](https://img.shields.io/badge/-MySQL-blue?style=flat-square&logo=mysql&logoColor=white)                                           | ⭐⭐⭐         |  
 
 ---
-
 ## 🚀 My Journey  
 
 🔹 **Why I Code:**  
@@ -44,16 +51,6 @@ Developing skills in **game development** and **3D modeling** to bring immersive
 - Build solutions that make a real-world impact.  
 
 ---
-
-## 📈 GitHub Insights  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vishal-46&show_icons=true&theme=radical" alt="GitHub Stats" width="48%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vishal-46&theme=radical" alt="GitHub Streak Stats" width="48%">
-</p>  
-
----
-
 ## 🤝 Connect With Me  
 
 - 🌐 [Portfolio](https://vishal-46.github.io/Vishal-Portfolio/)  
