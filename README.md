@@ -19,45 +19,6 @@ I aim to solve challenges with innovation, persistence, and the mindset of a vis
 
 ---
 
-## 🛠️ My Toolbox  
-
-| Category               | Tools/Technologies                                                                                  | Proficiency |  
-|------------------------|----------------------------------------------------------------------------------------------------|-------------|  
-| **Programming**        | ![C#](https://img.shields.io/badge/-C%23-blue?style=flat-square&logo=c-sharp&logoColor=white) ![Python](https://img.shields.io/badge/-Python-yellow?style=flat-square&logo=python) ![Java](https://img.shields.io/badge/-Java-red?style=flat-square&logo=java&logoColor=white) | ⭐⭐⭐⭐         |  
-| **Game Development**   | ![Unity](https://img.shields.io/badge/-Unity-black?style=flat-square&logo=unity&logoColor=white) ![Blender](https://img.shields.io/badge/-Blender-orange?style=flat-square&logo=blender) ![Godot](https://img.shields.io/badge/-Godot-blue?style=flat-square&logo=godot-engine&logoColor=white) | ⭐⭐⭐⭐         |  
-| **Databases**          | ![MySQL](https://img.shields.io/badge/-MySQL-blue?style=flat-square&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-blue?style=flat-square&logo=postgresql&logoColor=white) | ⭐⭐⭐⭐         |  
-| **Cloud Platforms**    | ![AWS](https://img.shields.io/badge/-AWS-orange?style=flat-square&logo=amazon-aws&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-blue?style=flat-square&logo=docker&logoColor=white) | ⭐⭐⭐⭐         |  
-
----
-
-## 🌟 Innovative Focus  
-
-### 🎮 **Dynamic Gaming Experiences**  
-Using tools like Unity, Blender, and Godot, I aim to craft immersive worlds where players can explore endless possibilities.  
-
-### ☁️ **AI Meets the Cloud**  
-Combining **AWS** and **AI** to create scalable, intelligent solutions for real-world challenges.  
-
-### 🚀 **Entrepreneurial Vision**  
-Harnessing my tech expertise to create products that inspire and impact global communities.  
-
----
-
-## 🚀 My Journey  
-
-🔹 **Why I Code:**  
-To transform imagination into innovation and make dreams a reality through technology.  
-
-🔹 **Current Mission:**  
-Creating smarter games and leveraging cloud platforms to integrate **AI** for intelligent interactions.  
-
-🔹 **Future Goals:**  
-- Publish a cross-platform game using Unity and Godot.  
-- Build AI-based dynamic storytelling engines for games.  
-- Develop cloud-hosted applications for societal impact.  
-
----
-
 ## 📊 GitHub Insights  
 
 <p align="center">
@@ -70,12 +31,48 @@ Creating smarter games and leveraging cloud platforms to integrate **AI** for in
 </p>
 
 ---
+## 🛠️ My Toolbox  
+
+| Category               | Tools/Technologies                                                                                  | Proficiency |  
+|------------------------|----------------------------------------------------------------------------------------------------|-------------|  
+| **Programming**        | ![C#](https://img.shields.io/badge/-C%23-blue?style=flat-square&logo=c-sharp&logoColor=white) ![Python](https://img.shields.io/badge/-Python-yellow?style=flat-square&logo=python) ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript) | ⭐⭐⭐         |  
+| **Markup & Styles**    | ![HTML](https://img.shields.io/badge/-HTML-orange?style=flat-square&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS-blue?style=flat-square&logo=css3&logoColor=white) | ⭐⭐⭐⭐⭐        |  
+| **Game Development**   | ![Unity](https://img.shields.io/badge/-Unity-black?style=flat-square&logo=unity&logoColor=white) ![Blender](https://img.shields.io/badge/-Blender-orange?style=flat-square&logo=blender) ![Godot](https://img.shields.io/badge/-Godot-blue?style=flat-square&logo=godot-engine&logoColor=white) | ⭐⭐⭐⭐         |  
+| **Databases**          | ![MySQL](https://img.shields.io/badge/-MySQL-blue?style=flat-square&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-blue?style=flat-square&logo=postgresql&logoColor=white) | ⭐⭐⭐        |  
+| **Cloud Platforms**    | ![AWS](https://img.shields.io/badge/-AWS-orange?style=flat-square&logo=amazon-aws&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-blue?style=flat-square&logo=docker&logoColor=white) | ⭐⭐⭐⭐        |  
+
+---
+
+## 🚀 My Journey  
+
+🔹 **How It All Began:**  
+I started coding less than a year ago with a fascination for creating immersive worlds and innovative solutions. My journey began with a focus on game development, where I discovered my passion for **C#** and creative design.  
+
+🔹 **Building Blocks:**  
+- Began learning **C#** to bring my game ideas to life in **Unity**.  
+- Explored **HTML** and **CSS** to understand the fundamentals of web development.  
+- Progressed to **JavaScript** to create dynamic and interactive web applications.  
+
+🔹 **Current Focus:**  
+- Mastering **C#** for scripting complex gameplay mechanics.  
+- Diving deeper into **JavaScript** for both web and game development integrations.  
+
+🔹 **2025 Goals:**  
+- Achieve mastery in **C#** and **JavaScript** for creating powerful games and interactive experiences.  
+- Publish my first cross-platform game on Unity.  
+- Explore AI integration in games using my **AI & Data Science** background.  
+
+🔹 **Mindset for Mastery:**  
+I believe in consistent effort, learning from challenges, and embracing creativity. My entrepreneurial spirit drives me to innovate, inspire, and create impactful solutions.  
+
+---
+
 
 ## 🤝 Connect With Me  
 
-- 🌐 [Portfolio](https://vishal-46.github.io/Vishal-Portfolio/)  
 - 📧 [Email Me](mailto:vishal.ai23@stellamaryscoe.edu.in)  
-- 🔗 [LinkedIn](https://www.linkedin.com/in/vishaln24)  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/vishaln24)
+-  🌐 [Portfolio](https://vishal-46.github.io/Vishal-Portfolio/)    
 
 ---
 
