@@ -91,5 +91,5 @@ I believe in consistent effort, learning from challenges, and embracing creativi
 ---
 
 <p align="center">
-  <em>Let’s innovate together and shape a better future!</em> 🚀
+  <em>Let’s innovate together and Build a better future !</em> 🚀
 </p>
