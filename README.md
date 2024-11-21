@@ -10,15 +10,6 @@ A passionate **AI & Data Science student** with a relentless drive to innovate a
 I believe in crushing limits, taking risks, and shaping the future through **game development**, **technology**, and **creative ideas**.  
 
 ---
-
-## 🌟 My Motto  
-
-*"Strong minds create opportunities, and great visions change the world."*  
-
-I aim to solve challenges with innovation, persistence, and the mindset of a visionary entrepreneur.  
-
----
-
 ## 📊 GitHub Insights  
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vishal-46&theme=redical" alt="GitHub Contribution Graph" />
@@ -108,3 +99,10 @@ Coding is more than a skill—it’s a way to create impact. From interactive ga
 <p align="center">
   <em>Let’s innovate together and Build a better future !</em> 🚀
 </p>
+## 🌟 My Motto  
+
+*"Strong minds create opportunities, and great visions change the world."*  
+
+I aim to solve challenges with innovation, persistence, and the mindset of a visionary entrepreneur.  
+
+---
