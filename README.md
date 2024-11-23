@@ -100,8 +100,8 @@ Coding is more than a skill—it’s a way to create impact. From interactive ga
 <p align="center">
   <em>Let’s innovate together and Build a better future !</em> 🚀
 </p>
-## 🌟 My Motto 
-
+ 
+## 👊🏽 My Motto
 *"Strong minds create opportunities, and great visions change the world."*  
 
 I aim to solve challenges with innovation, persistence, and the mindset of a visionary entrepreneur.  
