@@ -93,7 +93,9 @@ Coding is more than a skill—it’s a way to create impact. From interactive ga
 >  
 > 🔗 **LinkedIn:**  
 > [Visit My LinkedIn Profile](https://www.linkedin.com/in/vishaln24)  
->  
+>
+<img align="center" src="https://raw.githubusercontent.com/kheireddinebou/kheireddinebou/output/snake.svg" alt="Snake animation" />
+<br/>
 >
 ---
 
