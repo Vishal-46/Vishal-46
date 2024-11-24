@@ -9,20 +9,47 @@
 A passionate **Artificial Intelligence & Data Science student** with a relentless drive to innovate and create solutions that inspire! 💡  
 I believe in crushing limits, taking risks, and shaping the future through **game development**, **technology**, and **creative ideas**.  
 
----
-
 ## 📊 GitHub Insights  
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vishal-46&theme=redical" alt="GitHub Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vishal-46&theme=radical" alt="GitHub Contribution Graph" />
 </p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Vishal-46&show_icons=true&theme=radical" alt="GitHub Stats" width="50%">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vishal-46&theme=radical" alt="GitHub Streak Stats" width="50%">
 </p>
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Vishal-46&theme=gruvbox&no-frame=true&title=MultiLanguage,Commits,Followers,Stars,Repositories,Issues&row=1&column=6" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Vishal-46&theme=radical&no-frame=true&title=MultiLanguage,Repositories,Commits,Stars,Followers,PullRequest,Issues&row=1&column=7" alt="GitHub Trophies" />
 </p>
+
+---
+
+### Included Trophies and How to Earn the Missing Ones:
+
+1. **MultiLanguage:** Showcases the variety of programming languages you've used.
+   - **How to achieve more:** Explore projects using new languages to diversify your skills.
+
+2. **Repositories:** Displays your total number of repositories.
+   - **How to achieve more:** Create and maintain multiple repositories—personal projects or collaborative work.
+
+3. **Commits:** Reflects your consistent contributions over time.
+   - **How to achieve more:** Make daily or weekly contributions to repositories to improve your commit streak.
+
+4. **Stars:** Highlights how many stars your repositories have received.
+   - **How to achieve more:** Share your repositories, create engaging README files, and work on popular open-source topics.
+
+5. **Followers:** Reflects the number of people following your GitHub profile.
+   - **How to achieve more:** Engage with the community by sharing meaningful projects and contributing to open-source repositories.
+
+6. **Pull Requests:** Showcases your contributions to external repositories through pull requests.
+   - **How to achieve more:** Actively contribute to open-source projects or help maintain collaborative repositories.
+
+7. **Issues:** Highlights your involvement in resolving issues across repositories.
+   - **How to achieve more:** Look for issues in popular repositories, suggest fixes, and engage in discussions.
+
+---
+
+Feel free to copy-paste this code into your README file! Let me know if you want additional customizations. 😊
 
 
 ---
