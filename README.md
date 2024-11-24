@@ -24,8 +24,6 @@ I believe in crushing limits, taking risks, and shaping the future through **gam
 | **Design**             | ![Figma](https://img.shields.io/badge/-Figma-black?style=flat-square&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/-Canva-%23E03C8C?style=flat-square&logo=canva&logoColor=white) | ⭐⭐⭐        |
 
 
----
-
 
 
 <div align="center"><img align="center" alt="Coding" width="400" src="https://raw.githubusercontent.com/hasibul-hasan-shuvo/hasibul-hasan-shuvo/main/images/coding-boy.gif"></img></div>
