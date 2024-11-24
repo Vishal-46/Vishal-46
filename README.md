@@ -11,7 +11,9 @@ I believe in crushing limits, taking risks, and shaping the future through **gam
 
 ---
 
+
 ## 📊 GitHub Insights  
+
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vishal-46&theme=redical" alt="GitHub Contribution Graph" />
 </p>
@@ -20,8 +22,9 @@ I believe in crushing limits, taking risks, and shaping the future through **gam
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vishal-46&theme=radical" alt="GitHub Streak Stats" width="50%">
 </p>
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Vishal-46&theme=radical&no-frame=true&column=7" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Vishal-46&theme=dark_dimmed&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
 </p>
+
 
 ---
 
