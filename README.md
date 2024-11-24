@@ -26,13 +26,10 @@ I believe in crushing limits, taking risks, and shaping the future through **gam
 
 ---
 
-# 🚀 **My Dev Adventure**  
-
-### 🌟 **A Glimpse Into the Journey**  
-Just a year ago, I was a curious dreamer intrigued by the worlds of technology and creativity. Today, I’m crafting those worlds, one line of code at a time. From building games to exploring the web, my journey is fueled by passion, persistence, and the joy of innovation.  
 
 
 <div align="center"><img align="center" alt="Coding" width="400" src="https://raw.githubusercontent.com/hasibul-hasan-shuvo/hasibul-hasan-shuvo/main/images/coding-boy.gif"></img></div>
+
 ---
 
 ## 📊 GitHub Insights  
@@ -50,6 +47,12 @@ Just a year ago, I was a curious dreamer intrigued by the worlds of technology a
 
 
 ---
+
+# 🚀 **My Dev Adventure**  
+
+### 🌟 **A Glimpse Into the Journey**  
+Just a year ago, I was a curious dreamer intrigued by the worlds of technology and creativity. Today, I’m crafting those worlds, one line of code at a time. From building games to exploring the web, my journey is fueled by passion, persistence, and the joy of innovation.  
+
 
 ## 🛠️ **What I’m Made Of**  
 
