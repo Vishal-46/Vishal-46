@@ -9,6 +9,9 @@
 A passionate **Artificial Intelligence & Data Science student** with a relentless drive to innovate and create solutions that inspire! 💡  
 I believe in crushing limits, taking risks, and shaping the future through **game development**, **technology**, and **creative ideas**.  
 
+<div align="center"><img align="center" alt="Coding" width="400" src="https://raw.githubusercontent.com/hasibul-hasan-shuvo/hasibul-hasan-shuvo/main/images/coding-boy.gif"></img></div>
+---
+
 ## 📊 GitHub Insights  
 
 <p align="center">
