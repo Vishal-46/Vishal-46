@@ -100,11 +100,14 @@ Coding is more than a skill—it’s a way to create impact. From interactive ga
   <em>Let’s innovate together and Build a better future !</em> 🚀
 </p>
  
-## 👊🏽 My Motto
-*"Strong minds create opportunities, and great visions change the world."*  
-
-I aim to solve challenges with innovation, persistence, and the mindset of a visionary entrepreneur.  
+ 
 
 ---
 <img align="center" src="https://raw.githubusercontent.com/kheireddinebou/kheireddinebou/output/snake.svg" alt="Snake animation" />
 <br/>
+
+---
+## 👊🏽 My Motto
+*"Strong minds create opportunities, and great visions change the world."*  
+
+I aim to solve challenges with innovation, persistence, and the mindset of a visionary entrepreneur. 
