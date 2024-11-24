@@ -10,6 +10,7 @@ A passionate **Artificial Intelligence & Data Science student** with a relentles
 I believe in crushing limits, taking risks, and shaping the future through **game development**, **technology**, and **creative ideas**.  
 
 ---
+
 ## 📊 GitHub Insights  
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vishal-46&theme=redical" alt="GitHub Contribution Graph" />
@@ -17,6 +18,9 @@ I believe in crushing limits, taking risks, and shaping the future through **gam
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Vishal-46&show_icons=true&theme=radical" alt="GitHub Stats" width="50%">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vishal-46&theme=radical" alt="GitHub Streak Stats" width="50%">
+</p>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Vishal-46&theme=radical&no-frame=true&column=7" alt="GitHub Trophies" />
 </p>
 
 ---
@@ -71,7 +75,6 @@ Just a year ago, I was a curious dreamer intrigued by the worlds of technology a
 
 ## 🌌 **The Bigger Picture**  
 Coding is more than a skill—it’s a way to create impact. From interactive games to groundbreaking AI, I aim to craft experiences that leave a mark. Whether you're here to collaborate, learn, or share ideas, welcome to my GitHub realm.  
-  
 
 ---
 
@@ -109,7 +112,3 @@ I aim to solve challenges with innovation, persistence, and the mindset of a vis
 <p align="center">
   <em>Let’s innovate together and Build a better future !</em> 🚀
 </p>
- 
- 
-
----
