@@ -24,36 +24,6 @@ I believe in crushing limits, taking risks, and shaping the future through **gam
 
 ---
 
-### Included Trophies and How to Earn the Missing Ones:
-
-1. **MultiLanguage:** Showcases the variety of programming languages you've used.
-   - **How to achieve more:** Explore projects using new languages to diversify your skills.
-
-2. **Repositories:** Displays your total number of repositories.
-   - **How to achieve more:** Create and maintain multiple repositories—personal projects or collaborative work.
-
-3. **Commits:** Reflects your consistent contributions over time.
-   - **How to achieve more:** Make daily or weekly contributions to repositories to improve your commit streak.
-
-4. **Stars:** Highlights how many stars your repositories have received.
-   - **How to achieve more:** Share your repositories, create engaging README files, and work on popular open-source topics.
-
-5. **Followers:** Reflects the number of people following your GitHub profile.
-   - **How to achieve more:** Engage with the community by sharing meaningful projects and contributing to open-source repositories.
-
-6. **Pull Requests:** Showcases your contributions to external repositories through pull requests.
-   - **How to achieve more:** Actively contribute to open-source projects or help maintain collaborative repositories.
-
-7. **Issues:** Highlights your involvement in resolving issues across repositories.
-   - **How to achieve more:** Look for issues in popular repositories, suggest fixes, and engage in discussions.
-
----
-
-Feel free to copy-paste this code into your README file! Let me know if you want additional customizations. 😊
-
-
----
-
 ## 🛠️ My Toolbox  
 
 | Category               | Tools/Technologies                                                                                  | Proficiency |  
