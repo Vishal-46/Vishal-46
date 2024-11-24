@@ -9,22 +9,6 @@
 A passionate **Artificial Intelligence & Data Science student** with a relentless drive to innovate and create solutions that inspire! 💡  
 I believe in crushing limits, taking risks, and shaping the future through **game development**, **technology**, and **creative ideas**.  
 
-<div align="center"><img align="center" alt="Coding" width="400" src="https://raw.githubusercontent.com/hasibul-hasan-shuvo/hasibul-hasan-shuvo/main/images/coding-boy.gif"></img></div>
----
-
-## 📊 GitHub Insights  
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vishal-46&theme=radical" alt="GitHub Contribution Graph" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vishal-46&show_icons=true&theme=radical" alt="GitHub Stats" width="50%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vishal-46&theme=radical" alt="GitHub Streak Stats" width="50%">
-</p>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Vishal-46&theme=radical&no-frame=true&title=MultiLanguage,Repositories,Commits,Stars,Followers,PullRequest,Issues&row=1&column=7" alt="GitHub Trophies" />
-</p>
-
 ---
 
 ## 🛠️ My Toolbox  
@@ -46,6 +30,24 @@ I believe in crushing limits, taking risks, and shaping the future through **gam
 
 ### 🌟 **A Glimpse Into the Journey**  
 Just a year ago, I was a curious dreamer intrigued by the worlds of technology and creativity. Today, I’m crafting those worlds, one line of code at a time. From building games to exploring the web, my journey is fueled by passion, persistence, and the joy of innovation.  
+
+
+<div align="center"><img align="center" alt="Coding" width="400" src="https://raw.githubusercontent.com/hasibul-hasan-shuvo/hasibul-hasan-shuvo/main/images/coding-boy.gif"></img></div>
+---
+
+## 📊 GitHub Insights  
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vishal-46&theme=radical" alt="GitHub Contribution Graph" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Vishal-46&show_icons=true&theme=radical" alt="GitHub Stats" width="50%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vishal-46&theme=radical" alt="GitHub Streak Stats" width="50%">
+</p>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Vishal-46&theme=radical&no-frame=true&title=MultiLanguage,Repositories,Commits,Stars,Followers,PullRequest,Issues&row=1&column=7" alt="GitHub Trophies" />
+</p>
+
 
 ---
 
