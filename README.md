@@ -72,8 +72,10 @@ I’m on a journey to **learn**, **create**, and **push boundaries** by experime
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Vishal-46&theme=radical&no-frame=true&title=MultiLanguage,Repositories,Commits,Stars,Followers,PullRequest,Issues&row=1&column=7" alt="GitHub Trophies" />
+  
+  ![My GitHub Trophies](https://github-profile-trophy.vercel.app/?username=vishal-46&theme=radical)
 </p>
+
 
 ---
 
