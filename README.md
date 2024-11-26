@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00C4FF&center=true&vCenter=true&width=435&lines=Welcome+to+My+GitHub!;Building+Dreams+with+Code!;Aspiring+Developer+|+Creator+|+Visionary!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00C4FF&center=true&vCenter=true&width=500&lines=Welcome+to+My+GitHub!;Building+Dreams+with+Code!;Aspiring+Developer+|+Creator+|+Visionary!" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -14,10 +14,6 @@ Welcome to my GitHub! I’m an **aspiring game developer** and **technology inno
 
 I’m on a journey to **learn**, **create**, and **push boundaries** by experimenting with new technologies and tools. My ultimate goal is to bring my ideas to life through **game development**, **AI**, and **software solutions** that impact people’s lives.
 
----
-
-## 🎮 **My Journey as an Aspiring Game Developer**  
-
 <p align="center">
   <img src="https://i.pinimg.com/originals/7f/fa/71/7ffa71c12e21dece378a8472b9e1a878.gif" alt="Aspiring Game Developer GIF" width="60%" />
 </p>
@@ -27,22 +23,22 @@ I’m on a journey to **learn**, **create**, and **push boundaries** by experime
 ## 🔧 **Tech & Tools I Work With**
 
 ### **Programming Languages**  
-| Language      | Proficiency | Logo                                         |
-|---------------|-------------|----------------------------------------------|
-| **C#**        | 80%         | ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white) |
-| **Python**    | 65%         | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) |
-| **JavaScript**| 60%         | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) |
-| **Java**      | 50%         | ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white) |
+| Language      | Proficiency | 
+|---------------|-------------|
+|![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)        | 80%         | 
+|![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)   | 65%         |  
+|![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) | 60%         | 
+|![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)       | 50%         |
 
 ---
 
 ### **Web & Game Development**  
-| Tool          | Proficiency | Logo                                         |
-|---------------|-------------|----------------------------------------------|
-| **Unity**     | 80%         | ![Unity](https://img.shields.io/badge/Unity-100000?style=flat&logo=unity&logoColor=white) |
-| **Blender**   | 60%         | ![Blender](https://img.shields.io/badge/Blender-F5792A?style=flat&logo=blender&logoColor=white) |
-| **HTML5**     | 70%         | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) |
-| **CSS3**      | 70%         | ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) |
+| Tool          | Proficiency |                                        
+|---------------|-------------|
+| ![Unity](https://img.shields.io/badge/Unity-100000?style=flat&logo=unity&logoColor=white)  | 80%         |  
+| ![Blender](https://img.shields.io/badge/Blender-F5792A?style=flat&logo=blender&logoColor=white)   | 60%         |  
+| ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)   | 70%         |  
+| ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)     | 70%         | 
 
 ---
 
