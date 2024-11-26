@@ -16,10 +16,10 @@ I’m on a journey to **learn**, **create**, and **push boundaries** by experime
 
 ---
 
-## 🎥 **My Journey as an Aspiring Game Developer**  
+## 🎮 **My Journey as an Aspiring Game Developer**  
 
 <p align="center">
-  <img src="https://media.giphy.com/media/l46CyA8sVbiuDh5HA/giphy.gif" alt="Aspiring Game Developer GIF" width="60%" />
+  <img src="https://media.giphy.com/media/PLctjwAKkZtFg/giphy.gif" alt="Aspiring Game Developer GIF" width="60%" />
 </p>
 
 ---
@@ -29,70 +29,74 @@ I’m on a journey to **learn**, **create**, and **push boundaries** by experime
 Here’s a quick look at the technologies and tools I use in my projects, along with my proficiency levels:
 
 ### **Programming Languages**  
-| Technology | Proficiency |
-|------------|-------------|
-| C#         | ⭐⭐⭐⭐ |  
-| Python     | ⭐⭐⭐⭐ |  
-| JavaScript | ⭐⭐⭐  |  
-| Java       | ⭐⭐⭐  |  
-
 <p align="center">
-  <img src="https://img.shields.io/badge/Language-C%23-9b599a?style=for-the-badge&logo=csharp" alt="C#" />
-  <img src="https://img.shields.io/badge/Language-Python-3776AB?style=for-the-badge&logo=python" alt="Python" />
-  <img src="https://img.shields.io/badge/Language-JavaScript-F7DF1E?style=for-the-badge&logo=javascript" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Language-Java-007396?style=for-the-badge&logo=java" alt="Java" />
+  <img src="https://img.shields.io/badge/C%23-9b599a?style=for-the-badge&logo=csharp" alt="C#" width="80" />  
+  <span style="font-weight:bold;">C# - Level: Expert</span>
+  <br>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python" alt="Python" width="80" />  
+  <span style="font-weight:bold;">Python - Level: Advanced</span>
+  <br>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript" alt="JavaScript" width="80" />  
+  <span style="font-weight:bold;">JavaScript - Level: Intermediate</span>
+  <br>
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java" alt="Java" width="80" />  
+  <span style="font-weight:bold;">Java - Level: Intermediate</span>
 </p>
+
+---
 
 ### **Web & Game Development**  
-| Technology | Proficiency |
-|------------|-------------|
-| Unity      | ⭐⭐⭐⭐⭐ |  
-| Blender    | ⭐⭐⭐  |  
-| HTML5      | ⭐⭐⭐  |  
-| CSS3       | ⭐⭐⭐  |  
-
 <p align="center">
-  <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity" alt="Unity" />
-  <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender" alt="Blender" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5" alt="HTML" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3" alt="CSS" />
+  <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity" alt="Unity" width="80" />  
+  <span style="font-weight:bold;">Unity - Level: Expert</span>
+  <br>
+  <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender" alt="Blender" width="80" />  
+  <span style="font-weight:bold;">Blender - Level: Intermediate</span>
+  <br>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5" alt="HTML" width="80" />  
+  <span style="font-weight:bold;">HTML5 - Level: Advanced</span>
+  <br>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3" alt="CSS" width="80" />  
+  <span style="font-weight:bold;">CSS3 - Level: Advanced</span>
 </p>
+
+---
 
 ### **Databases & Cloud**  
-| Technology  | Proficiency |
-|-------------|-------------|
-| MySQL       | ⭐⭐⭐  |  
-| PostgreSQL  | ⭐⭐⭐  |  
-| AWS         | ⭐⭐⭐  |  
-| Docker      | ⭐⭐⭐  |  
-
 <p align="center">
-  <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql" alt="MySQL" />
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/Amazon%20AWS-232F3E?style=for-the-badge&logo=amazonaws" alt="AWS" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker" alt="Docker" />
+  <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql" alt="MySQL" width="80" />  
+  <span style="font-weight:bold;">MySQL - Level: Intermediate</span>
+  <br>
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql" alt="PostgreSQL" width="80" />  
+  <span style="font-weight:bold;">PostgreSQL - Level: Intermediate</span>
+  <br>
+  <img src="https://img.shields.io/badge/Amazon%20AWS-232F3E?style=for-the-badge&logo=amazonaws" alt="AWS" width="80" />  
+  <span style="font-weight:bold;">AWS - Level: Intermediate</span>
+  <br>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker" alt="Docker" width="80" />  
+  <span style="font-weight:bold;">Docker - Level: Intermediate</span>
 </p>
+
+---
 
 ### **Design & UI/UX**  
-| Technology | Proficiency |
-|------------|-------------|
-| Figma      | ⭐⭐⭐  |  
-| Canva      | ⭐⭐⭐  |  
-
 <p align="center">
-  <img src="https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma" alt="Figma" />
-  <img src="https://img.shields.io/badge/Canva-FFCC00?style=for-the-badge&logo=canva" alt="Canva" />
+  <img src="https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma" alt="Figma" width="80" />  
+  <span style="font-weight:bold;">Figma - Level: Intermediate</span>
+  <br>
+  <img src="https://img.shields.io/badge/Canva-FFCC00?style=for-the-badge&logo=canva" alt="Canva" width="80" />  
+  <span style="font-weight:bold;">Canva - Level: Intermediate</span>
 </p>
 
-### **Development Tools**  
-| Technology | Proficiency |
-|------------|-------------|
-| VS Code    | ⭐⭐⭐⭐⭐ |  
-| GitHub     | ⭐⭐⭐⭐⭐ |  
+---
 
+### **Development Tools**  
 <p align="center">
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode" alt="VS Code" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" alt="GitHub" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode" alt="VS Code" width="80" />  
+  <span style="font-weight:bold;">VS Code - Level: Expert</span>
+  <br>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" alt="GitHub" width="80" />  
+  <span style="font-weight:bold;">GitHub - Level: Expert</span>
 </p>
 
 ---
@@ -133,12 +137,6 @@ I believe in the power of innovation—where technology and creativity converge 
 ## 🤝 **Let’s Connect & Collaborate!**  
 - 🌐 **Portfolio**: [Explore My Portfolio](https://vishal-46.github.io/Vishal-Portfolio/)  
 - 📧 **Email**: [vishal.ai23@stellamaryscoe.edu.in](mailto:vishal.ai23@stellamaryscoe.edu.in)  
-- 🔗 **LinkedIn**: [Visit My LinkedIn Profile](https://www.linkedin.com/in/vishaln24)  
-- 🚀 **LeetCode Profile**: [Visit My LeetCode Profile](https://leetcode.com/u/Vishal-Arcadia/)  
-
----
-
-<p align="center">
-  <em>Let’s connect, collaborate, and build something extraordinary together! 🤝</em> 🚀
-</p>
-
+- 🔗 **LinkedIn**: [Vishal AI & Data Science](https://www.linkedin.com/in/vishal-ai/)  
+- 📱 **Twitter**: [@VishalAI_Dev](https://twitter.com/VishalAI_Dev)  
+- 🎮 **GameDev Community**: [Follow Me on Discord](https://discord.gg/DeveloperCommunity)
