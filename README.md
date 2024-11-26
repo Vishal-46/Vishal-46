@@ -116,5 +116,5 @@ I aim to solve challenges with innovation, persistence, and the mindset of a vis
 
 ---
 <p align="center">
-  <em>Let’s innovate together and Build a better future !</em> 🚀
+  <em>Let’s connect, collaborate, and build something extraordinary together! 🤝</em> 🚀
 </p>
