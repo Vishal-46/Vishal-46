@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00C4FF&center=true&vCenter=true&width=500&lines=Welcome+to+My+GitHub!;Building+Dreams+with+Code!;Aspiring+Developer+|+Creator+|+Visionary!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00C4FF&center=true&vCenter=true&width=435&lines=Welcome+to+My+GitHub!;Building+Dreams+with+Code!;Aspiring+Developer+|+Creator+|+Visionary!" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -26,78 +26,54 @@ I’m on a journey to **learn**, **create**, and **push boundaries** by experime
 
 ## 🔧 **Tech & Tools I Work With**  
 
-Here’s a quick look at the technologies and tools I use in my projects, along with my proficiency levels:
-
 ### **Programming Languages**  
-<p align="center">
-  <img src="https://img.shields.io/badge/C%23-9b599a?style=for-the-badge&logo=csharp" alt="C#" width="80" />  
-  <span style="font-weight:bold;">C# - Level: Expert</span>
-  <br>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python" alt="Python" width="80" />  
-  <span style="font-weight:bold;">Python - Level: Advanced</span>
-  <br>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript" alt="JavaScript" width="80" />  
-  <span style="font-weight:bold;">JavaScript - Level: Intermediate</span>
-  <br>
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java" alt="Java" width="80" />  
-  <span style="font-weight:bold;">Java - Level: Intermediate</span>
-</p>
+<details>
+  <summary><strong>Click to Expand</strong></summary>
+  - **C#** - 80%
+  - **Python** - 65%
+  - **JavaScript** - 60%
+  - **Java** - 50%
+</details>
 
 ---
 
 ### **Web & Game Development**  
-<p align="center">
-  <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity" alt="Unity" width="80" />  
-  <span style="font-weight:bold;">Unity - Level: Expert</span>
-  <br>
-  <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender" alt="Blender" width="80" />  
-  <span style="font-weight:bold;">Blender - Level: Intermediate</span>
-  <br>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5" alt="HTML" width="80" />  
-  <span style="font-weight:bold;">HTML5 - Level: Advanced</span>
-  <br>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3" alt="CSS" width="80" />  
-  <span style="font-weight:bold;">CSS3 - Level: Advanced</span>
-</p>
+<details>
+  <summary><strong>Click to Expand</strong></summary>
+  - **Unity** - 80%
+  - **Blender** - 60%
+  - **HTML5** - 70%
+  - **CSS3** - 70%
+</details>
 
 ---
 
 ### **Databases & Cloud**  
-<p align="center">
-  <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql" alt="MySQL" width="80" />  
-  <span style="font-weight:bold;">MySQL - Level: Intermediate</span>
-  <br>
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql" alt="PostgreSQL" width="80" />  
-  <span style="font-weight:bold;">PostgreSQL - Level: Intermediate</span>
-  <br>
-  <img src="https://img.shields.io/badge/Amazon%20AWS-232F3E?style=for-the-badge&logo=amazonaws" alt="AWS" width="80" />  
-  <span style="font-weight:bold;">AWS - Level: Intermediate</span>
-  <br>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker" alt="Docker" width="80" />  
-  <span style="font-weight:bold;">Docker - Level: Intermediate</span>
-</p>
+<details>
+  <summary><strong>Click to Expand</strong></summary>
+  - **MySQL** - 65%
+  - **PostgreSQL** - 55%
+  - **AWS** - 50%
+  - **Docker** - 50%
+</details>
 
 ---
 
 ### **Design & UI/UX**  
-<p align="center">
-  <img src="https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma" alt="Figma" width="80" />  
-  <span style="font-weight:bold;">Figma - Level: Intermediate</span>
-  <br>
-  <img src="https://img.shields.io/badge/Canva-FFCC00?style=for-the-badge&logo=canva" alt="Canva" width="80" />  
-  <span style="font-weight:bold;">Canva - Level: Intermediate</span>
-</p>
+<details>
+  <summary><strong>Click to Expand</strong></summary>
+  - **Figma** - 60%
+  - **Canva** - 55%
+</details>
 
 ---
 
 ### **Development Tools**  
-<p align="center">
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode" alt="VS Code" width="80" />  
-  <span style="font-weight:bold;">VS Code - Level: Expert</span>
-  <br>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" alt="GitHub" width="80" />  
-  <span style="font-weight:bold;">GitHub - Level: Expert</span>
-</p>
+<details>
+  <summary><strong>Click to Expand</strong></summary>
+  - **VS Code** - 85%
+  - **GitHub** - 80%
+</details>
 
 ---
 
