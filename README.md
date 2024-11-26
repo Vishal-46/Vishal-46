@@ -30,8 +30,6 @@ I’m on a journey to **learn**, **create**, and **push boundaries** by experime
 |![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) | 30%         | 
 |![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)       | 24%         |
 
----
-
 ### **Web & Game Development**  
 | Tool          | Proficiency |                                        
 |---------------|-------------|
@@ -39,8 +37,6 @@ I’m on a journey to **learn**, **create**, and **push boundaries** by experime
 | ![Blender](https://img.shields.io/badge/Blender-F5792A?style=flat&logo=blender&logoColor=white)   | 76%         |  
 | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)   | 70%         |  
 | ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)     | 65%         | 
-
----
 
 ### **Databases & Cloud**  
 | Tool          | Proficiency | 
@@ -50,15 +46,11 @@ I’m on a journey to **learn**, **create**, and **push boundaries** by experime
 | ![AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)    | 40%         |  |
 | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)   | 20%         |  |
 
----
-
 ### **Design & UI/UX**  
 | Tool          | Proficiency | 
 |---------------|-------------|
 | ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)   | 60%         |  |
 | ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat&logo=canva&logoColor=white)     | 77%         | |
-
----
 
 ### **Development Tools**  
 | Tool          | Proficiency | 
