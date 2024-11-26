@@ -1,5 +1,3 @@
-
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00C4FF&center=true&vCenter=true&width=435&lines=Welcome+to+My+GitHub!;Building+Dreams+with+Code!;Entrepreneur+|+Creator+|+Visionary!" alt="Typing SVG" />
 </p>
@@ -9,8 +7,8 @@
 
 # 👋 Hi, I'm Vishal!  
 
-A passionate **Artificial Intelligence & Data Science student** with a relentless drive to innovate and create solutions that inspire! 💡  
-I believe in crushing limits, taking risks, and shaping the future through **game development**, **technology**, and **creative ideas**.  
+A passionate Artificial Intelligence & Data Science student driven by the desire to innovate and craft solutions that make a difference! 💡
+With a vision to crush limits, embrace challenges, and shape the future, I merge the worlds of game development, cutting-edge technology, and creative thinking to turn ideas into reality. 🚀 
 
 ---
 
