@@ -73,7 +73,8 @@ I’m on a journey to **learn**, **create**, and **push boundaries** by experime
 
 <p align="center">
   
-  ![My GitHub Trophies](https://github-profile-trophy.vercel.app/?username=vishal-46&theme=radical)
+ ![](https://github-profile-trophy.vercel.app/?username=vishal-46&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+  
 </p>
 
 
