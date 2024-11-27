@@ -80,12 +80,20 @@ I’m on a journey to **learn**, **create**, and **push boundaries** by experime
 
 ---
 
-## 🎯 **Vision for 2025 & Beyond**  
+## 🎯 **Vision for 2025 & Beyond**
 
-- **Mastering C#**: I aim to reach expert-level skills in **C#** and **Unity** to build complex game mechanics and interactive worlds.  
-- **AI-Driven Game Development**: Incorporating **AI** into my game development projects to create smarter, adaptive gameplay experiences.  
-- **Game Publishing**: Publish my first major game across platforms and engage with a global audience.  
-- **Collaborations & Open Source**: Continue contributing to the open-source community and collaborate with fellow developers to share knowledge and ideas.
+### 📊 **Data Science Mastery**
+- Deepen my knowledge in **Python** and explore essential **Data Science libraries** like **Pandas**, **Numpy**, **Matplotlib**, and **Scikit-learn**.  
+- Apply **Machine Learning** and **Data Visualization** techniques to real-world problems and datasets.  
+- Build projects to strengthen my understanding and gain hands-on experience.
+
+### 🚀 **Mastering C# & Game Development**
+- Enhance my expertise in **C#** and **Object-Oriented Programming (OOP)** concepts for **game development**.  
+- Focus on **Unity** for game creation and design, building complex mechanics and **interactive worlds**.  
+- Integrate **AI** into my games, making the experience smarter and more engaging for players.
+
+
+**Building the future with code and creativity!**
 
 ---
 
