@@ -99,7 +99,6 @@ I believe in the power of innovation—where technology and creativity converge 
 ## 🤝 **Let’s Connect & Collaborate!**  
 - 🌐 **Portfolio**: [Explore My Portfolio](https://vishal-46.github.io/Vishal-Portfolio/)  
 - 📧 **Email**: [vishal.ai23@stellamaryscoe.edu.in](mailto:vishal.ai23@stellamaryscoe.edu.in)  
-- 🔗 **LinkedIn**: [Vishal AI & Data Science](https://www.linkedin.com/in/vishal-ai/)  
-- 📱 **Twitter**: [@VishalAI_Dev](https://twitter.com/VishalAI_Dev)  
-- 🎮 **GameDev Community**: [Follow Me on Discord](https://discord.gg/DeveloperCommunity)
+- 🔗 **LinkedIn**: [Vishal ](www.linkedin.com/in/vishaln24)  
+
 
