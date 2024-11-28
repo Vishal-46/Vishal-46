@@ -10,7 +10,7 @@
 
 # 👋 **Hey, I'm Vishal!**  
 
-Welcome to my GitHub! I’m an **aspiring game developer** and **technology innovator** passionate about creating engaging and immersive experiences. 🚀
+Welcome to my GitHub! I’m an **Aspiring game developer** and **technology innovator** passionate about creating engaging and immersive experiences. 🚀
 
 I’m on a journey to **learn**, **create**, and **push boundaries** by experimenting with new technologies and tools. My ultimate goal is to bring my ideas to life through **game development**, **AI**, and **software solutions** that impact people’s lives.
 
