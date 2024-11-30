@@ -105,7 +105,7 @@ I believe in the power of innovation—where technology and creativity converge 
 ---
 
 ## 🤝 **Let’s Connect & Collaborate!**  
-- 🌐 **Portfolio**: [🫴Explore My Portfolio](https://vishal-46.github.io/Vishal-Portfolio/)  
+- 🌐 **Portfolio🫴**: [Explore My Portfolio](https://vishal-46.github.io/Vishal-Portfolio/)  
 - 📧 **Email**: [vishal.ai23@stellamaryscoe.edu.in](mailto:vishal.ai23@stellamaryscoe.edu.in)  
 - 🔗 **LinkedIn**: [Vishal ](www.linkedin.com/in/vishaln24)  
 
