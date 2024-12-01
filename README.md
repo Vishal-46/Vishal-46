@@ -19,23 +19,7 @@ I’m on a journey to **learn**, **create**, and **push boundaries** by experime
 </p>
 
 ---
-## 🔧 **Tech & Tools I Work With**
-
-### **Programming Languages**
-
-| Tool          | Proficiency                |
-|---------------|----------------------------|
-| ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white) | <div style="background-color: #e1e4e8; width: 200px; border-radius: 5px; display: inline-block;"><div style="background-color: #239120; width: 47%; height: 10px; border-radius: 5px;"></div></div> **47%** |
-| ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) | <div style="background-color: #e1e4e8; width: 200px; border-radius: 5px; display: inline-block;"><div style="background-color: #3776AB; width: 40%; height: 10px; border-radius: 5px;"></div></div> **40%** |
-| ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) | <div style="background-color: #e1e4e8; width: 200px; border-radius: 5px; display: inline-block;"><div style="background-color: #F7DF1E; width: 30%; height: 10px; border-radius: 5px;"></div></div> **30%** |
-| ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white) | <div style="background-color: #e1e4e8; width: 200px; border-radius: 5px; display: inline-block;"><div style="background-color: #007396; width: 24%; height: 10px; border-radius: 5px;"></div></div> **24%** |
-
-### **Databases & Cloud**
-
-| Tool             | Proficiency                |
-|------------------|----------------------------|
-| ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) | <div style="background-color: #e1e4e8; width: 200px; border-radius: 5px; display: inline-block;"><div style="background-color: #4479A1; width: 42%; height: 10px; border-radius: 5px;"></div></div> **42%** |
-| ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white) | <div style="background-color: #e1e4e8; width: 200px; border-radius: 5px; display: inline-block;"><div style="background-color: #336791; width: 39%; height: 10px; border-radius: 5px;"></div></div> **39%** |
+%; height: 10px; border-radius: 5px;"></div></div> **39%** |
 | ![AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat&logo=amazonaws&logoColor=white) | <div style="background-color: #e1e4e8; width: 200px; border-radius: 5px; display: inline-block;"><div style="background-color: #232F3E; width: 40%; height: 10px; border-radius: 5px;"></div></div> **40%** |
 | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) | <div style="background-color: #e1e4e8; width: 200px; border-radius: 5px; display: inline-block;"><div style="background-color: #2496ED; width: 20%; height: 10px; border-radius: 5px;"></div></div> **20%** |
 
