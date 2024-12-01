@@ -19,10 +19,6 @@ I’m on a journey to **learn**, **create**, and **push boundaries** by experime
 </p>
 
 ---
-%; height: 10px; border-radius: 5px;"></div></div> **39%** |
-| ![AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat&logo=amazonaws&logoColor=white) | <div style="background-color: #e1e4e8; width: 200px; border-radius: 5px; display: inline-block;"><div style="background-color: #232F3E; width: 40%; height: 10px; border-radius: 5px;"></div></div> **40%** |
-| ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) | <div style="background-color: #e1e4e8; width: 200px; border-radius: 5px; display: inline-block;"><div style="background-color: #2496ED; width: 20%; height: 10px; border-radius: 5px;"></div></div> **20%** |
-
 
 ---
 
