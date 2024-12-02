@@ -70,7 +70,6 @@ I’m on a journey to **learn**, **create**, and **push boundaries** by experime
   
 </p>
 
-
 ---
 
 ## 🎯 **Vision for 2025 & Beyond**
