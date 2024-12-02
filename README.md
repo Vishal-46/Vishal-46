@@ -71,7 +71,6 @@ I’m on a journey to **learn**, **create**, and **push boundaries** by experime
   
 </p>
 
-![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Vishal-46&theme=radical)
 
 ---
 
