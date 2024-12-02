@@ -67,6 +67,13 @@ I’m on a journey to **learn**, **create**, and **push boundaries** by experime
  ![](https://github-profile-trophy.vercel.app/?username=vishal-46&theme=radical&no-frame=false&no-bg=false&margin-w=4)
   
 </p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vishal-46&theme=radical" alt="GitHub Streak Stats">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Vishal-46&show_icons=true&theme=radical" alt="GitHub Stats" width="50%">
+</p>
 
  
 ---
