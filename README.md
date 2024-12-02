@@ -60,11 +60,6 @@ I’m on a journey to **learn**, **create**, and **push boundaries** by experime
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vishal-46&show_icons=true&theme=radical" alt="GitHub Stats" width="50%">
-  
-  ![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Vishal-46&theme=radical)
-
-  
 </p>
 
 <p align="center">
@@ -73,7 +68,7 @@ I’m on a journey to **learn**, **create**, and **push boundaries** by experime
   
 </p>
 
-
+ 
 ---
 
 ## 🎯 **Vision for 2025 & Beyond**
