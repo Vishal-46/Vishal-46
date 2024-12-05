@@ -8,7 +8,7 @@
 
 ---
 
-# 👋 **Hel, I'm Vishal!**  
+# 👋 **Hello there, I'm Vishal!**  
 
 Welcome to my GitHub! I’m an **Aspiring game developer** and **technology innovator** passionate about creating engaging and immersive experiences. 🚀
 
