@@ -177,8 +177,8 @@ I believe in the power of innovation—where technology and creativity converge 
 
 ## 🤝 **Let’s Connect & Collaborate!**  
 - 🌐 **Portfolio🫴**: [My Portfolio](https://vishal-46.github.io/Vishal-Portfolio/)  
-- 📧 **Email**: [vishal@example.com](mailto:vishal@example.com)  
-- 🐦 **Twitter**: [@Vishal_Tech](https://twitter.com/Vishal_Tech)
+- 📧 **Email**: [vishalmurugan006@gmail.com](mailto:vishalmurugan006@gmail.com)  
+- 🐦 **Twitter**: [@Vishal](https://twitter.com/Vishal_Tech)
 
 Feel free to reach out for any collaboration opportunities, questions, or feedback!
 
