@@ -20,27 +20,113 @@ I’m on a journey to **learn**, **create**, and **push boundaries** by experime
 
 ---
 
-### 🗿 **I've Tried This**
+## 🛠️ **Languages and Tools**
+
+<table align="center">
+  <tr>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=python" alt="Python" width="40" height="40" />
+        <br>Python
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=csharp" alt="C#" width="40" height="40" />
+        <br>C#
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" width="40" height="40" />
+        <br>JavaScript
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=cpp" alt="C++" width="40" height="40" />
+        <br>C++
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=html" alt="HTML5" width="40" height="40" />
+        <br>HTML5
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=css" alt="CSS" width="40" height="40" />
+        <br>CSS
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=django" alt="Django" width="40" height="40" />
+        <br>Django
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=git" alt="Git" width="40" height="40" />
+        <br>Git
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="40" height="40" />
+        <br>GitHub
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="40" height="40" />
+        <br>MySQL
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" width="40" height="40" />
+        <br>PostgreSQL
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=blender" alt="Blender" width="40" height="40" />
+        <br>Blender
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=unity" alt="Unity" width="40" height="40" />
+        <br>Unity
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=opencv" alt="OpenCV" width="40" height="40" />
+        <br>OpenCV
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=pytorch" alt="PyTorch" width="40" height="40" />
+        <br>PyTorch
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=tensorflow" alt="TensorFlow" width="40" height="40" />
+        <br>TensorFlow
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=react" alt="React" width="40" height="40" />
+        <br>React
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=tailwind" alt="TailwindCSS" width="40" height="40" />
+        <br>TailwindCSS
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" width="40" height="40" />
+        <br>Bootstrap
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=figma" alt="Figma" width="40" height="40" />
+        <br>Figma
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" width="40" height="40" />
+        <br>VS Code
+    </td>
+  </tr>
+</table>
+
+## 🎨 **Design Tools**
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,opencv,pytorch,tensorflow,csharp,latex,figma,django,blender,unity,bootstrap,matlab,mysql,react,tailwind,vite,github,visualstudio,vscode,postgres,git" />
+  <a href="https://www.figma.com" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/>
   </a>
-</p>
-
----
-
-<div align="center">
-  <a>
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vishal-46&theme=github&bg_color=none&hide_border=true&custom_title=I've%20tried%20these%20tools%20and%20techniques." width="400" height="200" alt="GitHub activity graph" style="display: inline-block; margin-right: 10px;" />
+  <a href="https://www.canva.com" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/canva/canva-icon.svg" alt="Canva" width="40" height="40"/>
   </a>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Vishal-46&theme=transparent&hide_border=true&hide_current_streak=true" width="400" height="200" alt="streak graph" style="display: inline-block; margin-left: 10px;" />
-</div>
-
----
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Vishal-46/Vishal-46/main/profile-3d-contrib/info.svg" alt="Contribution" width="600" />
+  <a href="https://flutterflow.io/" target="_blank" rel="noreferrer">
+    <img src="https://asset.brandfetch.io/id209IGdxm/idGj5i8Kzv.jpeg" alt="Flutterflow" width="40" height="40"/>
+  </a>
 </p>
 
 ---
