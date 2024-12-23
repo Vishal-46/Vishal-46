@@ -20,44 +20,28 @@ I’m on a journey to **learn**, **create**, and **push boundaries** by experime
 
 ---
 
-## 🔧 **Tools & Technologies**
+### 🗿 **I've Tried This**
 
-### **Programming Languages**  
-| **Tool**  | **Proficiency** |
-|-----------|-----------------|
-| ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white) | `██████████░░░░░░░░░░` **47%** |
-| ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) | `█████████░░░░░░░░░░░` **40%** |
-| ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) | `███████░░░░░░░░░░░░░` **30%** |
-| ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white) | `████░░░░░░░░░░░░░░░░` **24%** |
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,opencv,pytorch,tensorflow,csharp,latex,figma,django,blender,unity,bootstrap,matlab,mysql,react,tailwind,vite,github,visualstudio,vscode,postgres,git" />
+  </a>
+</p>
 
-### **Databases & Cloud**  
-| **Tool**  | **Proficiency** |
-|-----------|-----------------|
-| ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) | `█████████░░░░░░░░░░░` **42%** |
-| ![SQL](https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white) | `████████░░░░░░░░░░░░░` **39%** |
-| ![AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat&logo=amazonaws&logoColor=white) | `████████░░░░░░░░░░░░░` **40%** |
-| ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) | `████░░░░░░░░░░░░░░░░` **20%** |
+---
 
-### **Python Libraries & Frameworks**  
-| **Tool**  | **Proficiency** |
-|-----------|-----------------|
-| ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B00?style=flat&logo=streamlit&logoColor=white) | `█████████░░░░░░░░░░░░` **40%** |
-| ![Scikit-learn](https://img.shields.io/badge/Scikit-learn-F7931E?style=flat&logo=scikit-learn&logoColor=white) | `████████░░░░░░░░░░░░░` **38%** |
-| ![Spacy](https://img.shields.io/badge/Spacy-2C3E50?style=flat&logo=spacy&logoColor=white) | `███████░░░░░░░░░░░░░` **30%** |
+<div align="center">
+  <a>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vishal-46&theme=github&bg_color=none&hide_border=true&custom_title=I've%20tried%20these%20tools%20and%20techniques." width="400" height="200" alt="GitHub activity graph" style="display: inline-block; margin-right: 10px;" />
+  </a>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Vishal-46&theme=transparent&hide_border=true&hide_current_streak=true" width="400" height="200" alt="streak graph" style="display: inline-block; margin-left: 10px;" />
+</div>
 
-### **Design & UI/UX**  
-| **Tool**  | **Proficiency** |
-|-----------|-----------------|
-| ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white) | `████████████░░░░░░░░` **60%** |
-| ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat&logo=canva&logoColor=white) | `█████████████░░░░░░` **77%** |
+---
 
-### **Development Tools**  
-| **Tool**  | **Proficiency** |
-|-----------|-----------------|
-| ![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=flat&logo=visualstudiocode&logoColor=white) | `██████████████████░░░░` **85%** |
-| ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white) | `████████████░░░░░░░░░` **76%** |
-| ![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-F37626?style=flat&logo=jupyter&logoColor=white) | `██████████░░░░░░░░░░░` **60%** |
-| ![WebStorm](https://img.shields.io/badge/WebStorm-000000?style=flat&logo=webstorm&logoColor=white) | `█████░░░░░░░░░░░░░░░` **35%** |
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Vishal-46/Vishal-46/main/profile-3d-contrib/info.svg" alt="Contribution" width="600" />
+</p>
 
 ---
 
