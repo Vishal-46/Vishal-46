@@ -8,7 +8,7 @@
 
 ---
 
-#👋 **Hello, I'm Vishal!**  
+👋 **Hello, I'm Vishal!**  
 
 Welcome to my GitHub! I’m an **Aspiring Data Scientist** and **Technology Innovator**, passionate about creating impactful solutions using **AI**, **Machine Learning**, and **Data Science**. 🚀
 
