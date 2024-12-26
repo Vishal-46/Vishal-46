@@ -115,19 +115,7 @@ I’m on a journey to **learn**, **create**, and **push boundaries** by experime
   </tr>
 </table>
 
-## 🎨 **Design Tools**
 
-<p align="center">
-  <a href="https://www.figma.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/>
-  </a>
-  <a href="https://www.canva.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/canva/canva-icon.svg" alt="Canva" width="40" height="40"/>
-  </a>
-  <a href="https://flutterflow.io/" target="_blank" rel="noreferrer">
-    <img src="https://asset.brandfetch.io/id209IGdxm/idGj5i8Kzv.jpeg" alt="Flutterflow" width="40" height="40"/>
-  </a>
-</p>
 
 ---
 
