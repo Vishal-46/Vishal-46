@@ -79,6 +79,22 @@ I’m on a journey to **learn**, **create**, and **crush the limits** by experim
 
 ---
 
+## 📈 **GitHub Insights**
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vishal-46&theme=radical" alt="GitHub Contribution Graph" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Vishal-46&show_icons=true&theme=radical" alt="GitHub Stats" width="50%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vishal-46&theme=radical" alt="GitHub Streak Stats">
+</p>
+
+---
+
 ## 💬 **Philosophy**  
 > "Technology is the tool, creativity is the spark, and vision is the guide."  
 
@@ -110,21 +126,6 @@ I believe that the fusion of **AI** and **creativity** can create transformative
 
 ---
 
-## 📈 **GitHub Insights**
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vishal-46&theme=radical" alt="GitHub Contribution Graph" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vishal-46&show_icons=true&theme=radical" alt="GitHub Stats" width="50%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vishal-46&theme=radical" alt="GitHub Streak Stats">
-</p>
-
----
 ## 🤝 **Let’s Connect & Collaborate!**  
 - 🌐 **Portfolio🫴**: [My Portfolio](https://vishal-46.github.io/Vishal-Portfolio/)  
 - 📧 **Email**: [vishalmurugan006@gmail.com](mailto:vishalmurugan006@gmail.com)  
