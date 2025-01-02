@@ -12,7 +12,7 @@
 
 Welcome to my GitHub! I’m an **Aspiring Data Scientist** and **Technology Innovator**, passionate about creating impactful solutions using **AI**, **Machine Learning**, and **Data Science**. 🚀
 
-I’m on a journey to **learn**, **create**, and **push boundaries** by experimenting with new technologies and tools. My goal is to combine data and creativity to develop solutions that can change the world.
+I’m on a journey to **learn**, **create**, and **crush limits** by experimenting with new technologies and tools. My goal is to combine data and creativity to develop solutions that can change the world.
 
 <p align="center">
   <img src="https://i.pinimg.com/originals/7f/fa/71/7ffa71c12e21dece378a8472b9e1a878.gif" alt="Aspiring Data Scientist GIF" width="60%" />
@@ -20,102 +20,11 @@ I’m on a journey to **learn**, **create**, and **push boundaries** by experime
 
 ---
 
-## 🛠️ **Languages and Tools**
+## 🛠️ **My Toolkit**
 
-<table align="center">
-  <tr>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=python" alt="Python" width="40" height="40" />
-        <br>Python
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=csharp" alt="C#" width="40" height="40" />
-        <br>C#
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" width="40" height="40" />
-        <br>JavaScript
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=cpp" alt="C++" width="40" height="40" />
-        <br>C++
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=html" alt="HTML5" width="40" height="40" />
-        <br>HTML5
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=css" alt="CSS" width="40" height="40" />
-        <br>CSS
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=django" alt="Django" width="40" height="40" />
-        <br>Django
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=git" alt="Git" width="40" height="40" />
-        <br>Git
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="40" height="40" />
-        <br>GitHub
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="40" height="40" />
-        <br>MySQL
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" width="40" height="40" />
-        <br>PostgreSQL
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=blender" alt="Blender" width="40" height="40" />
-        <br>Blender
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=unity" alt="Unity" width="40" height="40" />
-        <br>Unity
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=opencv" alt="OpenCV" width="40" height="40" />
-        <br>OpenCV
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=pytorch" alt="PyTorch" width="40" height="40" />
-        <br>PyTorch
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=tensorflow" alt="TensorFlow" width="40" height="40" />
-        <br>TensorFlow
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=react" alt="React" width="40" height="40" />
-        <br>React
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=tailwind" alt="TailwindCSS" width="40" height="40" />
-        <br>TailwindCSS
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" width="40" height="40" />
-        <br>Bootstrap
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=figma" alt="Figma" width="40" height="40" />
-        <br>Figma
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" width="40" height="40" />
-        <br>VS Code
-    </td>
-  </tr>
-</table>
-
-
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,csharp,js,cpp,html,css,git,github,mysql,postgres,react,blender,unity,opencv,pytorch,tensorflow,vscode" alt="Skills" />
+</p>
 
 ---
 
@@ -140,7 +49,7 @@ I believe that the fusion of **AI** and **game development** can create transfor
 
 ---
 
-## 📈 **GitHub Insights**
+## 📊 **GitHub Insights**
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vishal-46&theme=radical" alt="GitHub Contribution Graph" />
@@ -156,7 +65,7 @@ I believe that the fusion of **AI** and **game development** can create transfor
 
 ---
 
-## 💬 **Philosophy**  
+## 🗣️ **Philosophy**  
 > "Technology is the tool, creativity is the spark, and vision is the guide."  
 
 I believe in the power of innovation—where technology and creativity converge to make the impossible possible. The journey may be long, but with each step, I move closer to creating something impactful that will inspire others.
@@ -164,11 +73,11 @@ I believe in the power of innovation—where technology and creativity converge 
 ---
 
 ## 🤝 **Let’s Connect & Collaborate!**  
-- 🌐 **Portfolio🫴**: [My Portfolio](https://vishal-46.github.io/Vishal-Portfolio/)  
+- 🌐 **Portfolio**: [My Portfolio](https://vishal-46.github.io/Vishal-Portfolio/)  
 - 📧 **Email**: [vishalmurugan006@gmail.com](mailto:vishalmurugan006@gmail.com)  
-- 🐦 **Twitter**: [@Vishal](https://twitter.com/Vishal_Tech)
+- 🗞 **LinkedIn**: [LinkedIn Profile](https://linkedin.com/in/Vishal-46)  
+- 🕺 **Twitter**: [@Vishal](https://twitter.com/Vishal_Tech)  
 
 Feel free to reach out for any collaboration opportunities, questions, or feedback!
 
 ---
-
