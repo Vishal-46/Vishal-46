@@ -19,46 +19,6 @@ I’m on a journey to **learn**, **create**, and **crush the limits** by experim
 
 ---
 
-## 🛠️ **Languages and Tools**
-
-<table align="center">
-  <tr>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=python" alt="Python" width="40" height="40" />
-        <br>Python
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=html" alt="HTML5" width="40" height="40" />
-        <br>HTML5
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=css" alt="CSS" width="40" height="40" />
-        <br>CSS
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="40" height="40" />
-        <br>MySQL
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" width="40" height="40" />
-        <br>PostgreSQL
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=figma" alt="Figma" width="40" height="40" />
-        <br>Figma
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=chatgpt" alt="ChatGPT" width="40" height="40" />
-        <br>ChatGPT
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=brainstorm" alt="Brainstorming" width="40" height="40" />
-        <br>Brainstorm
-    </td>
-  </tr>
-</table>
 
 ---
 
