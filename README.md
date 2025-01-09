@@ -78,6 +78,7 @@ I’m on a journey to **learn**, **create**, and **crush the limits** by experim
     </td>
   </tr>
 </table>
+
 ---
 
 ### 🏆 GitHub Trophies
