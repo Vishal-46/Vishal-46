@@ -102,7 +102,7 @@ I’m on a journey to **learn**, **create**, and **crush the limits** by experim
 
 <p align="center">
   
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Vishal-46)](https://git.io/streak-stats)
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Vishal-46&theme=radical)](https://git.io/streak-stats)
   
 </p>
 
