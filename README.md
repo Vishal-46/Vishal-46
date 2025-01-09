@@ -121,30 +121,7 @@ I’m on a journey to **learn**, **create**, and **crush the limits** by experim
 I believe in the power of innovation—where technology and creativity converge to make the impossible possible. The journey may be long, but with each step, I move closer to creating something impactful that will inspire others.
 
 ---
-## 🎯 **My Vision for 2025: Passionate Growth and Impact**
 
-By 2025, my goal is to become a proficient **Data Scientist** with a strong foundation in **Machine Learning**, **AI**, and **Data Science**, using my skills to create meaningful and impactful projects. 
-
-### **Plan:**
-1. **Master Data Science & Machine Learning**:  
-   - Build real-world data models using **Python** and libraries like **Pandas**, **Numpy**, and **Scikit-learn**.
-   - Deploy interactive data applications with **Streamlit** to make insights accessible and actionable.
-
-2. **Combine Creativity with Technology**:  
-   - Continue exploring **Blender** for **VFX** and **3D modeling** projects, integrating creative elements with data-driven concepts.
-   - Create visually compelling and innovative models that inspire and engage.
-
-3. **Immigrate to Japan for Career Growth**:  
-   - Pursue opportunities to work and innovate in Japan, immersing myself in its advanced technological landscape and unique culture.
-   - Collaborate with global talents to design solutions that resonate worldwide.
-
-4. **Inspire & Collaborate**:  
-   - Contribute to open-source projects and collaborate with other developers to solve real-world problems.
-   - Share knowledge through blogs, tutorials, and community engagement, helping others explore the power of data and technology.
-
-I believe that the fusion of **AI** and **creativity** can create transformative experiences, and I’m determined to make this my focus moving forward. With each project, I want to challenge myself to innovate, learn, and make an impact that can change the way we interact with technology.
-
----
 
 ## 🤝 **Let’s Connect & Collaborate!**  
 - 🌐 **Portfolio🫴**: [My Portfolio](https://vishal-46.github.io/Vishal-Portfolio/)  
