@@ -81,6 +81,12 @@ I’m on a journey to **learn**, **create**, and **crush the limits** by experim
 
 ---
 
+
+  
+
+
+---
+
 ### 🏆 GitHub Trophies
 
 ![](https://github-profile-trophy.vercel.app/?username=Vishal-46&theme=radical&no-frame=false&no-bg=false&margin-w=4)
@@ -98,15 +104,16 @@ I’m on a journey to **learn**, **create**, and **crush the limits** by experim
   <img src="https://github-readme-stats.vercel.app/api?username=Vishal-46&show_icons=true&theme=radical" alt="GitHub Stats" width="50%" />
 </p>
 
+<div align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=Vishal-46&theme=radical" alt="GitHub Streak Stats">
+  </a>
+</div>
+
+
 ---
 
-<p align="center">
-  
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Vishal-46&theme=radical)](https://git.io/streak-stats)
-  
-</p>
 
----
 
 ## 💬 **Philosophy**  
 > "Technology is the tool, creativity is the spark, and vision is the guide."  
