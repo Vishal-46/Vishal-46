@@ -70,7 +70,7 @@ I’m on a journey to **learn**, **create**, and **crush the limits** by experim
     </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=jupyter" alt="Jupyter Notebook" width="40" height="40" />
-        <br>Jupyter
+        <br>Jupyter Notebook
     </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=chatgpt" alt="ChatGPT" width="40" height="40" />
