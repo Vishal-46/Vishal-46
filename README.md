@@ -1,4 +1,4 @@
-<p align="center">
+4<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00C4FF&center=true&vCenter=true&width=500&lines=Welcome+to+My+GitHub!;Building+Dreams+with+Code!;Aspiring+Developer+|+Creator+|+Visionary!" alt="Typing SVG" />
 </p>
 
@@ -28,7 +28,7 @@ I’m on a journey to **learn**, **create**, and **crush the limits** by experim
   <tr>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=python" alt="Python" width="40" height="40" />
-        <br>Python
+        <br>
     </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=html" alt="HTML5" width="40" height="40" />
