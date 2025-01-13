@@ -28,7 +28,7 @@ I’m on a journey to **learn**, **create**, and **crush the limits** by experim
   <tr>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=python" alt="Python" width="40" height="40" />
-        <br>
+        <br>Python
     </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=html" alt="HTML5" width="40" height="40" />
