@@ -80,9 +80,7 @@ I’m on a journey to **learn**, **create**, and **crush the limits** by experim
 </table>
 
 ---
-
-
-  
+ 
 
 
 ---
