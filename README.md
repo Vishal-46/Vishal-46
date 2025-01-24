@@ -101,11 +101,7 @@ I’m on a journey to **learn**, **create**, and **crush the limits** by experim
   <img src="https://github-readme-stats.vercel.app/api?username=Vishal-46&show_icons=true&theme=radical" alt="GitHub Stats" width="50%" />
 </p>
 
-<div align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=Vishal-46&theme=radical" alt="GitHub Streak Stats">
-  </a>
-</div>
+
 
 
 ---
