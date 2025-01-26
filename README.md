@@ -9,6 +9,7 @@
 >"Hearing something a hundred times is not as good as seeing it once."
 
 ---
+
 👋 **Hello, I'm Vishal!**  
 
 Welcome to my GitHub! I’m an **Aspiring Data Scientist** and **Technology Innovator**, passionate about creating impactful solutions using **AI**, **Machine Learning**, and **Data Science**. 🚀
