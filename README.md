@@ -102,9 +102,9 @@ I’m on a journey to **learn**, **create**, and **crush the limits** by experim
   <img src="https://github-readme-stats.vercel.app/api?username=Vishal-46&show_icons=true&theme=radical" alt="GitHub Stats" width="50%" />
 </p>
 
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=Vishal-46&theme=radical&hide_border=true)]
-
+<p align="center">
+  ![GitHub Streak](https://streak-stats.demolab.com?user=Vishal-46&theme=radical&hide_border=true)
+</p>
 
 ---
 
