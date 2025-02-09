@@ -95,7 +95,7 @@ I’m on a journey to **learn**, **create**, and **crush the limits** by experim
 ## 📈 **GitHub Insights**
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vishal-46&theme=radical" alt="GitHub Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vishal-46&theme=radical" alt="GitHub Contribution Graph" />
 </p>
 
 <p align="center">
