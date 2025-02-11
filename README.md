@@ -61,8 +61,9 @@ I’m on a journey to **learn**, **create**, and **crush the limits** by experim
   <img src="https://cdn.simpleicons.org/mysql/4479A1" height="30" alt="sql logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/openai/412991" height="30" alt="chatgpt logo"  />
-  <img src="https://cdn.simpleicons.org/amazonaws/FF9900" height="30" alt="aws logo"  />
-  <img width="12" />
+   <img width="12" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" height="30" alt="aws logo" />
+   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="30" alt="jupyter logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
