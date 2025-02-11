@@ -6,6 +6,10 @@
   <img src="https://komarev.com/ghpvc/?username=Vishal-46&label=Profile%20views&color=0e75b6&style=flat" alt="Vishal-46" />
 </p>
 
+<p align="center">
+  <img src="https://i.pinimg.com/originals/7f/fa/71/7ffa71c12e21dece378a8472b9e1a878.gif" alt=" GIF" width="60%" />
+</p>
+
 >"Hearing something a hundred times is not as good as seeing it once."
 
 ---
@@ -16,9 +20,7 @@ Welcome to my GitHub! I’m an **Aspiring Data Scientist** and **Technology Inno
 
 I’m on a journey to **learn**, **create**, and **crush the limits** by experimenting with new technologies and tools. My goal is to combine data and creativity to develop solutions that can change the world.
 
-<p align="center">
-  <img src="https://i.pinimg.com/originals/7f/fa/71/7ffa71c12e21dece378a8472b9e1a878.gif" alt="Aspiring Data Scientist GIF" width="60%" />
-</p>
+
 
 ---
 
@@ -103,7 +105,7 @@ I believe in the power of innovation—where technology and creativity converge 
 ## 🤝 **Let’s Connect & Collaborate!**  
 - 🌐 **Portfolio🫴**: [My Portfolio](https://vishal-46.github.io/Vishal-Portfolio/)  
 - 📧 **Email**: [vishalmurugan006@gmail.com](mailto:vishalmurugan006@gmail.com)  
-- 🐦 **Twitter**: [@Vishal](https://twitter.com/Vishal_Tech)
+- 🐦 **Twitter**: [@Vishal]()
 
 Feel free to reach out for any collaboration opportunities, questions, or feedback!
 
