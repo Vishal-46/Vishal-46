@@ -31,6 +31,10 @@ I’m on a journey to **learn**, **create**, and **crush the limits** by experim
         <br>Python
     </td>
     <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=cs" alt="C#" width="40" height="40" />
+        <br>C#
+    </td>
+    <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=html" alt="HTML5" width="40" height="40" />
         <br>HTML5
     </td>
@@ -39,18 +43,51 @@ I’m on a journey to **learn**, **create**, and **crush the limits** by experim
         <br>CSS
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="40" height="40" />
-        <br>MySQL
+        <img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" width="40" height="40" />
+        <br>Bootstrap
     </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" width="40" height="40" />
-        <br>PostgreSQL
-    </td>
+  </tr>
+  <tr>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=figma" alt="Figma" width="40" height="40" />
         <br>Figma
     </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=webstorm" alt="WebStorm" width="40" height="40" />
+        <br>WebStorm
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=git" alt="Git" width="40" height="40" />
+        <br>Git
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="40" height="40" />
+        <br>GitHub
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=vscode" alt="VSCode" width="40" height="40" />
+        <br>VSCode
+    </td>
   </tr>
+  <tr>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=r" alt="R" width="40" height="40" />
+        <br>R
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=rstudio" alt="RStudio" width="40" height="40" />
+        <br>RStudio
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=sql" alt="SQL" width="40" height="40" />
+        <br>SQL
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=chatgpt" alt="ChatGPT" width="40" height="40" />
+        <br>ChatGPT
+    </td>
+  </tr>
+</table>
   <tr>
     <td align="center" width="96">
         <svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" fill="none" viewBox="0 0 256 256"><rect width="256" height="256" fill="#953CAD" rx="60"/><path fill="#fff" d="M195.436 100.668V114.142H208.91V100.668H215.647V114.142H229.12V120.879H215.647V134.352H229.12V141.089H215.647V154.563H208.91V141.089H195.436V154.563H188.699V141.089H175.226V134.352H188.699V120.879H175.226V114.142H188.699V100.668H195.436ZM208.91 120.879H195.436V134.352H208.91V120.879Z"/><path fill="#fff" d="M122.001 33C157.144 33 187.828 52.0863 204.262 80.4561L204.102 80.183L162.753 103.991C154.607 90.1977 139.672 80.8892 122.54 80.6975L122.001 80.6945C95.875 80.6945 74.6945 101.874 74.6945 127.999C74.6945 136.543 76.9723 144.552 80.9335 151.469C89.0876 165.704 104.416 175.306 122.001 175.306C139.693 175.306 155.109 165.582 163.222 151.195L163.025 151.54L204.311 175.458C188.057 203.588 157.794 222.615 123.059 222.994L122.001 223C86.746 223 55.9753 203.796 39.582 175.276C31.5791 161.353 27 145.212 27 127.999C27 75.5334 69.5323 33 122.001 33Z"/></svg>
