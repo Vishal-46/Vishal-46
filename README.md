@@ -91,6 +91,8 @@ I’m on a journey to **learn**, **create**, and **crush the limits** by experim
 
 <p align="center">
   
+  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=vishal-46&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 </p>
 
 <img src="https://github-readme-stats.vercel.app/api?username=Vishal-46&show_icons=true&theme=radical" alt="GitHub Stats" width="50%" />
