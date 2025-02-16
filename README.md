@@ -71,6 +71,8 @@ I’m on a journey to **learn**, **create**, and **crush the limits** by experim
   <img src="https://cdn.simpleicons.org/blender/F5792A" height="30" alt="blender logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/unity/FFFFFF" height="30" alt="unity logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/powerbi/FFFFFF" height="30" alt=" logo"  />
 </div>
 
 
