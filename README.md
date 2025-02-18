@@ -16,10 +16,6 @@
 
 👋 **Hello, I'm Vishal!**  
 
-Welcome to my GitHub! I’m an **Aspiring Data Scientist** and **Technology Innovator**, passionate about creating impactful solutions using **AI**, **Machine Learning**, and **Data Science**. 🚀
-
-I’m on a journey to **learn**, **create**, and **crush the limits** by experimenting with new technologies and tools. My goal is to combine data and creativity to develop solutions that can change the world.
-
 
 
 ---
