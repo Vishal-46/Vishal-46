@@ -10,7 +10,7 @@
   <img src="https://i.pinimg.com/originals/7f/fa/71/7ffa71c12e21dece378a8472b9e1a878.gif" alt=" GIF" width="60%" />
 </p>
 
->"Hearing something a hundred times is not as good as seeing it once."
+
 
 ---
 
@@ -119,5 +119,5 @@ I believe in the power of innovation—where technology and creativity converge 
 - 🐦 **Twitter**: [@Vishal]()
 
 Feel free to reach out for any collaboration opportunities, questions, or feedback!
-
+>"Hearing something a hundred times is not as good as seeing it once."
 ---
