@@ -16,8 +16,6 @@
 
 👋 **Hello, I'm Vishal!**  
 
-
-
 ---
 
 ## 🛠️ **Languages and Tools**
