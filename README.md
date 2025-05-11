@@ -60,6 +60,9 @@
   <img src="https://cdn.simpleicons.org/blender/F5792A" height="30" alt="blender logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/unity/FFFFFF" height="30" alt="unity logo"  />
+  <img src="https://www.svgrepo.com/show/504676/obsidian.svg" height="30" alt="Obsidian logo" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" height="30" alt="GeeksforGeeks logo" />
+
 </div>
 
 
