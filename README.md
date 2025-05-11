@@ -98,6 +98,7 @@
 
 
 
+
 ## 💬 **Philosophy**  
 > "Technology is the tool, creativity is the spark, and vision is the guide."  
 
