@@ -70,7 +70,9 @@
 
 ## 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=vishal-46&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+![](https://github-profile-trophy.vercel.app/?username=Vishal-46&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
 
 
 ---
