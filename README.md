@@ -81,7 +81,7 @@
 ## 📈 **GitHub Insights**
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vishal-46&theme=radical" alt="GitHub Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vishal-46&theme=radical" alt="GitHub Contribution Graph" />
 </p>
 
 
@@ -91,6 +91,7 @@
 <p align="center">
   
   ![GitHub Streak](https://streak-stats.demolab.com?user=Vishal-46&theme=radical&hide_border=true)
+  
 </p>
 
 <p align="center">
