@@ -116,8 +116,7 @@ I believe in the power of innovation—where technology and creativity converge 
 
 ## 🤝 **Let’s Connect & Collaborate!**  
 - 🌐 **Portfolio🫴**: [My Portfolio](https://vishal-46.github.io/Vishal-Portfolio/)  
-- 📧 **Email**: [vishalmurugan006@gmail.com](mailto:vishalmurugan006@gmail.com)  
-- 🐦 **Twitter**: [@Vishal]()
+- 📧 **Email**: [vishalmurugan006@gmail.com](mailto:vishalmurugan006@gmail.com) 
 
 Feel free to reach out for any collaboration opportunities, questions, or feedback!
 >"Hearing something a hundred times is not as good as seeing it once."
