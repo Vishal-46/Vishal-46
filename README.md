@@ -86,7 +86,7 @@
 
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=Vishal-46&show_icons=true&theme=radical" alt="GitHub Stats" width="50%" />
+<img src="https://github-readme-stats.vercel.app/api?username=vishal-46&show_icons=true&theme=radical" alt="GitHub Stats" width="50%" />
 
 <p align="center">
   
