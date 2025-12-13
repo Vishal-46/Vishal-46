@@ -1,18 +1,18 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00C4FF&center=true&vCenter=true&width=500&lines=Welcome+to+My+GitHub!+I+am+Vishal;Building+Dreams+with+Code!;Aspiring+Developer+|+Creator+|+Visionary!" alt="Typing SVG" />
 </p>
+<div align="center">
 
+**_That which does not kill us makes us stronger._** — **Friedrich Nietzsche**
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
+</div>
+
 
 ## 🛠️ **Languages and Tools**
 
 ```Good and wanted to be good at✨```
 
-  <tr>
-    <td align="center" width="96">
-        <svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" fill="none" viewBox="0 0 256 256"><rect width="256" height="256" fill="#953CAD" rx="60"/><path fill="#fff" d="M195.436 100.668V114.142H208.91V100.668H215.647V114.142H229.12V120.879H215.647V134.352H229.12V141.089H215.647V154.563H208.91V141.089H195.436V154.563H188.699V141.089H175.226V134.352H188.699V120.879H175.226V114.142H188.699V100.668H195.436ZM208.91 120.879H195.436V134.352H208.91V120.879Z"/><path fill="#fff" d="M122.001 33C157.144 33 187.828 52.0863 204.262 80.4561L204.102 80.183L162.753 103.991C154.607 90.1977 139.672 80.8892 122.54 80.6975L122.001 80.6945C95.875 80.6945 74.6945 101.874 74.6945 127.999C74.6945 136.543 76.9723 144.552 80.9335 151.469C89.0876 165.704 104.416 175.306 122.001 175.306C139.693 175.306 155.109 165.582 163.222 151.195L163.025 151.54L204.311 175.458C188.057 203.588 157.794 222.615 123.059 222.994L122.001 223C86.746 223 55.9753 203.796 39.582 175.276C31.5791 161.353 27 145.212 27 127.999C27 75.5334 69.5323 33 122.001 33Z"/></svg>
-       
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo" />
   <img width="12" />
@@ -58,27 +58,35 @@
 </div>
 
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
+</div>
 
-## 🏆 GitHub Trophies
----
+## 🏆 **GitHub Trophies**
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Vishal-46&theme=radical&no-frame=false&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies" />
+</p>
+
 
 ## 📈 **GitHub Insights**
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Vishal-46&label=Profile%20views&color=0e75b6&style=flat" alt="Vishal-46" />
 </p>
+
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vishal-46&theme=radical" alt="GitHub Contribution Graph"  />
 </p>
+
 <table>
   <tr>
     <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=vishal-46&show_icons=true&theme=radical"
+      <img src="https://github-readme-stats.vercel.app/api?username=Vishal-46&show_icons=true&theme=radical"
            alt="GitHub Stats"
            width="100%" />
     </td>
     <td align="center">
-      <img src="https://nirzak-streak-stats.vercel.app/?user=andreabetrina&theme=radical&hide_border=false"
+      <img src="https://nirzak-streak-stats.vercel.app/?user=Vishal-46&theme=radical&hide_border=false"
            alt="GitHub Streak Stats"
            width="100%" />
     </td>
@@ -97,24 +105,38 @@
   </tr>
 </table>
 
----
 
-
-
-
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
+</div>
 
 ## 💬 **Philosophy**  
-> "Technology is the tool, creativity is the spark, and vision is the guide."  
 
-I believe in the power of innovation—where technology and creativity converge to make the impossible possible. The journey may be long, but with each step, I move closer to creating something impactful that will inspire others.
+<div align="center">
 
----
+*"One must still have chaos in oneself to be able to give birth to a dancing star."* — Friedrich Nietzsche
+
+To create is to embrace the void, to wrestle with uncertainty, and to transform the raw chaos of possibility into something magnificent. I do not code to follow—I code to transcend. Every algorithm is a declaration of will, every project a conquest over the impossible. In this digital age, we are not bound by what is, but empowered by what could be. The true developer does not seek comfort in the known but dares to venture into the uncharted territories of innovation, where only the bold leave their mark.
+
+</div>
 
 
-## 🤝 **Let’s Connect & Collaborate!**  
-- 🌐 **Portfolio🫴**: [My Portfolio](https://vishal-46.github.io/Vishal-Portfolio/)  
-- 📧 **Email**: [vishalmurugan006@gmail.com](mailto:vishalmurugan006@gmail.com) 
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
+</div>
 
-Feel free to reach out for any collaboration opportunities, questions, or feedback!
->"Hearing something a hundred times is not as good as seeing it once."
----
+## 🤝 **Let's Connect & Collaborate!**  
+> "Hearing something a hundred times is not as good as seeing it once."
+<p align="center">
+  <a href="https://vishal-46.github.io/Vishal-Portfolio/">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="mailto:vishalmurugan006@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
+
+
+
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%" alt="Footer"/>
+</div>
