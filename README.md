@@ -109,20 +109,6 @@
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
 </div>
 
-## 💬 **Philosophy**  
-
-<div align="center">
-
-*"One must still have chaos in oneself to be able to give birth to a dancing star."* — Friedrich Nietzsche
-
-To create is to embrace the void, to wrestle with uncertainty, and to transform the raw chaos of possibility into something magnificent. I do not code to follow—I code to transcend. Every algorithm is a declaration of will, every project a conquest over the impossible. In this digital age, we are not bound by what is, but empowered by what could be. The true developer does not seek comfort in the known but dares to venture into the uncharted territories of innovation, where only the bold leave their mark.
-
-</div>
-
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
-</div>
-
 ## 🤝 **Let's Connect & Collaborate!**  
 > "Hearing something a hundred times is not as good as seeing it once."
 <p align="center">
