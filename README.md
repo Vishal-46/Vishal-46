@@ -71,36 +71,41 @@
 
 ## 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=vishal-46&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
+[![](https://github-profile-trophy.vercel.app/?username=vishal-46&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=radical)
 ---
 
 ## 📈 **GitHub Insights**
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vishal-46&theme=radical" alt="GitHub Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vishal-46&theme=radical" alt="GitHub Contribution Graph"  />
 </p>
-
-
-<img src="https://github-readme-stats.vercel.app/api?username=vishal-46&show_icons=true&theme=radical" alt="GitHub Stats" width="50%" />
-
-<p align="center">
-  
-  ![GitHub Streak](https://streak-stats.demolab.com?user=vishal-46&theme=radical&hide_border=true)
-  
-</p>
-
-<p align="center">
-  
-  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Vishal-46&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-</p>
-
-
-<p align="center">
-  
-  ![](https://leetcard.jacoblin.cool/Vishal-Arcadia&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-</p>
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=vishal-46&show_icons=true&theme=radical"
+           alt="GitHub Stats"
+           width="100%" />
+    </td>
+    <td align="center">
+      <img src="https://nirzak-streak-stats.vercel.app/?user=andreabetrina&theme=radical&hide_border=false"
+           alt="GitHub Streak Stats"
+           width="100%" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vishal-46&theme=radical&layout=compact"
+           alt="Top Languages"
+           width="80%" />
+    </td>
+    <td align="center">
+      <img src="https://leetcard.jacoblin.cool/Vishal-Arcadia?theme=radical&hide_border=false"
+           alt="LeetCode Stats"
+           width="100%" />
+    </td>
+  </tr>
+</table>
 
 ---
 
