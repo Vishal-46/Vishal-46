@@ -3,15 +3,6 @@
 </p>
 
 
-<p align="center">
-  <img src="https://i.pinimg.com/originals/7f/fa/71/7ffa71c12e21dece378a8472b9e1a878.gif" alt=" GIF" width="60%" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Vishal-46&label=Profile%20views&color=0e75b6&style=flat" alt="Vishal-46" />
-</p>
-
-
 ---
 
 ## 🛠️ **Languages and Tools**
@@ -70,13 +61,12 @@
 ---
 
 ## 🏆 GitHub Trophies
-
-[![](https://github-profile-trophy.vercel.app/?username=vishal-46&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=radical)
 ---
 
 ## 📈 **GitHub Insights**
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Vishal-46&label=Profile%20views&color=0e75b6&style=flat" alt="Vishal-46" />
+</p>
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vishal-46&theme=radical" alt="GitHub Contribution Graph"  />
 </p>
