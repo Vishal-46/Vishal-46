@@ -81,19 +81,19 @@
 <table>
   <tr>
     <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=Vishal-46&show_icons=true&theme=radical"
+      <img src="https://github-readme-stats.vercel.app/api?username=vishal-46&show_icons=true&theme=radical"
            alt="GitHub Stats"
            width="100%" />
     </td>
     <td align="center">
-      <img src="https://nirzak-streak-stats.vercel.app/?user=Vishal-46&theme=radical&hide_border=false"
+      <img src="https://nirzak-streak-stats.vercel.app/?user=vishal-46&theme=radical&hide_border=false"
            alt="GitHub Streak Stats"
            width="100%" />
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vishal-46&theme=radical&layout=compact"
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishal-46&theme=radical&layout=compact"
            alt="Top Languages"
            width="80%" />
     </td>
