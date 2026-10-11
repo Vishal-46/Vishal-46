@@ -6,7 +6,7 @@
 
 <br>
 
-<img src="https://img.shields.io/badge/B.Tech-Computer%20Science-6D28D9?style=for-the-badge&logo=googlescholar&logoColor=E9D5FF&labelColor=1E1033"/>
+<img src="https://img.shields.io/badge/B.Tech-AI%20DS-6D28D9?style=for-the-badge&logo=googlescholar&logoColor=E9D5FF&labelColor=1E1033"/>
 <img src="https://img.shields.io/badge/Location-Tamil%20Nadu,%20India-6D28D9?style=for-the-badge&logo=googlemaps&logoColor=E9D5FF&labelColor=1E1033"/>
 
 <br><br>
