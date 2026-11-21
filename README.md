@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:5B21B6,50:7C3AED,100:4C1D95&height=220&section=header&text=VISHAL&fontSize=70&fontColor=E9D5FF&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20AI%2FML%20%7C%20Full%20Stack%20Developer&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:5B21B6,50:7C3AED,100:4C1D95&height=220&section=header&text=VISHAL&fontSize=70&fontColor=E9D5FF&animation=fadeIn&fontAlignY=35&desc=Data%20Engineer%20%7C%20Product%20Management%20%7C%20AI%20Researcher&descAlignY=55&descSize=18" width="100%"/>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Building+Scalable+Systems;Engineering+AI-Driven+Products;Full+Stack+%7C+Cloud+%7C+Data" alt="Typing SVG"/>
 
@@ -112,13 +112,6 @@ My work spans **backend systems, data pipelines, and intelligent applications**,
 
 ---
 
-## 🟣 Contribution Snake
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/Vishal-46/Vishal-46/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-</p>
-
-> Generate this via the [`platane/snk`](https://github.com/Platane/snk) GitHub Action on your own repo.
 
 ---
 
