@@ -30,11 +30,10 @@
 
 ## 🟣 About Me
 
-I'm a **software engineer** focused on building reliable, scalable systems at the intersection of **full-stack engineering, applied AI/ML, and cloud-native infrastructure**. I care about clean architecture, measurable performance, and shipping products that hold up under real-world load — not just demos.
-
+I'm a **Data engineer** focused on building reliable, scalable systems at the intersection of **Applied AI/ML, pipelines and cloud-native infrastructure**. I care about clean architecture, measurable performance, and shipping products that hold up under real-world load.
 My work spans **backend systems, data pipelines, and intelligent applications**, with a product-engineering mindset: understand the problem, design for scale, and iterate fast without breaking what already works.
 
-**🔭 Open To:** Software Engineering roles · AI/ML Engineering roles · Full Stack opportunities · Open-source collaboration · Freelance/contract engineering work
+**🔭 Open To:** Data Engineering roles · AI/ML Engineering roles · Product Management · Open-source collaboration 
 
 ---
 
@@ -42,17 +41,13 @@ My work spans **backend systems, data pipelines, and intelligent applications**,
 
 **Languages**
 <div align="left">
-<img src="https://skillicons.dev/icons?i=python,java,cs,r&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=python,java,r&theme=dark"/>
 </div>
 
-**Frontend**
-<div align="left">
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap,figma&theme=dark"/>
-</div>
 
-**Backend & Databases**
+**Databases**
 <div align="left">
-<img src="https://skillicons.dev/icons?i=postgres,nodejs&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=postgres,mongoDB&theme=dark"/>
 </div>
 
 **Cloud, DevOps & Tooling**
@@ -67,14 +62,10 @@ My work spans **backend systems, data pipelines, and intelligent applications**,
 <img width="8"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original-wordmark.svg" height="30" alt="spark"/>
 <img width="8"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="30" alt="hadoop"/>
-<img width="8"/>
 <img src="https://cdn.simpleicons.org/blender/A78BFA" height="30" alt="blender"/>
 <img width="8"/>
 <img src="https://www.svgrepo.com/show/504676/obsidian.svg" height="30" alt="obsidian"/>
 <img width="8"/>
-<img src="https://cdn.simpleicons.org/datagrip/A78BFA" height="30" alt="datagrip"/>
-</div>
 
 ---
 
@@ -82,102 +73,11 @@ My work spans **backend systems, data pipelines, and intelligent applications**,
 
 | Domain | Proficiency | Details |
 |---|---|---|
-| Machine Learning Fundamentals | ⭐⭐⭐⭐☆ | Supervised/unsupervised learning, model evaluation, feature engineering |
-| Deep Learning | ⭐⭐⭐☆☆ | Neural network design, training pipelines with Jupyter-based workflows |
-| LLM / GenAI Integration | ⭐⭐⭐⭐☆ | Building applications on top of OpenAI-style APIs, prompt engineering |
-| Data Engineering | ⭐⭐⭐☆☆ | Spark & Hadoop for large-scale data processing |
+
+| Data Engineering | ⭐⭐⭐⭐☆ | Spark and python for large-scale data processing |
+| AI | ⭐⭐⭐☆☆ | Neural network design, training pipelines with Jupyter-based workflows |
 | MLOps & Deployment | ⭐⭐⭐☆☆ | Model packaging, cloud deployment on AWS |
 
-*(Update proficiency levels and details to match your actual experience.)*
-
----
-
-## 🟣 Featured Projects
-
-<details>
-<summary><b>🔹 Project Name One</b></summary>
-<br>
-
-Short professional description of what the project does and the problem it solves.
-
-| Aspect | Detail |
-|---|---|
-| Stack | e.g. Python, PostgreSQL, AWS |
-| Scale | e.g. Handles X requests/day |
-| Performance | e.g. Sub-200ms P99 latency |
-| Security | e.g. JWT auth, role-based access control |
-| Impact | e.g. Reduced processing time by X% |
-| Repository | [View Repo](https://github.com/Vishal-46/) |
-
-A 2–3 sentence explanation of the engineering decisions, architecture, and outcomes.
-
-</details>
-
-<details>
-<summary><b>🔹 Project Name Two</b></summary>
-<br>
-
-Short professional description of what the project does and the problem it solves.
-
-| Aspect | Detail |
-|---|---|
-| Stack | — |
-| Scale | — |
-| Performance | — |
-| Security | — |
-| Impact | — |
-| Repository | [View Repo](https://github.com/Vishal-46/) |
-
-A 2–3 sentence explanation of the engineering decisions, architecture, and outcomes.
-
-</details>
-
-<details>
-<summary><b>🔹 Project Name Three</b></summary>
-<br>
-
-Short professional description of what the project does and the problem it solves.
-
-| Aspect | Detail |
-|---|---|
-| Stack | — |
-| Scale | — |
-| Performance | — |
-| Security | — |
-| Impact | — |
-| Repository | [View Repo](https://github.com/Vishal-46/) |
-
-A 2–3 sentence explanation of the engineering decisions, architecture, and outcomes.
-
-</details>
-
----
-
-## 🟣 Certifications
-
-**AWS**
-<img src="https://img.shields.io/badge/AWS-Certification%20Name-6D28D9?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=1E1033"/>
-
-**Oracle**
-<img src="https://img.shields.io/badge/Oracle-Certification%20Name-6D28D9?style=for-the-badge&logo=oracle&logoColor=white&labelColor=1E1033"/>
-
-**NPTEL**
-<img src="https://img.shields.io/badge/NPTEL-Course%20Name-6D28D9?style=for-the-badge&logo=googlescholar&logoColor=white&labelColor=1E1033"/>
-
-**Cisco**
-<img src="https://img.shields.io/badge/Cisco-Certification%20Name-6D28D9?style=for-the-badge&logo=cisco&logoColor=white&labelColor=1E1033"/>
-
-*(Swap in your real certification names/links.)*
-
----
-
-## 🟣 Coding Profiles
-
-<div align="center">
-
-<a href="https://leetcode.com/Vishal-Arcadia/"><img src="https://img.shields.io/badge/LeetCode-6D28D9?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=1E1033"/></a>
-
-</div>
 
 ---
 
